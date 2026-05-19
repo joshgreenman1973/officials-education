@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Methodology — Where America's leaders went to school</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,500;8..60,700&display=swap" rel="stylesheet">
+<style>body{font-family:'Inter',system-ui,sans-serif;background:#fbfaf6;color:#111;margin:0;padding:40px 22px 80px;line-height:1.6}.wrap{max-width:740px;margin:0 auto}.kicker{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:#666;font-weight:600}h1{font-family:'Source Serif 4',Georgia,serif;font-size:36px;margin:6px 0 14px;letter-spacing:-.01em}h2{font-family:'Source Serif 4',Georgia,serif;font-size:22px;margin:28px 0 6px}p,li{font-size:16px}a{color:#0a4d4d}code{background:#eae6dc;padding:1px 6px;border-radius:2px;font-size:14px}hr{border:none;border-top:1px solid #d8d8d3;margin:30px 0}.back{font-size:13px;color:#666;margin-bottom:20px;display:inline-block}</style>
+</head><body><div class="wrap">
+<a href="index.html" class="back">← back to the database</a>
+<div class="kicker">Methodology</div>
+<h1>How this database was built</h1>
+<h2>Who is in it</h2>
+<p>Four populations of sitting US elected officials as of the build date shown on the main page:</p>
+<ul>
+<li>All 50 sitting state governors</li>
+<li>All 100 sitting US senators</li>
+<li>All 435 sitting voting members of the US House of Representatives (non-voting delegates from territories are excluded)</li>
+<li>The current mayors of the 25 largest US cities by population (New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia, San Antonio, San Diego, Dallas, Jacksonville, Austin, Fort Worth, San Jose, Charlotte, Columbus, Indianapolis, San Francisco, Seattle, Denver, Washington DC, Nashville, Oklahoma City, El Paso, Boston, Las Vegas)</li>
+</ul>
+<p>Total target: 610 records. Actual record count is shown in the live stats on the main page.</p>
+<h2>Where the education data comes from</h2>
+<p>Every education entry is sourced from each official's Wikipedia biographical page — specifically the <code>Alma mater</code> or <code>Education</code> row of the page's infobox. Wikipedia is not authoritative in the legal sense, but for sitting federal and statewide officials its biographical infoboxes are heavily curated, cite primary sources, and are the closest thing to a uniform structured field across all 610 people. Ballotpedia and Congress.gov have inconsistent coverage of major and field of study, which is why they were ruled out as the primary source.</p>
+<p>The roster of officials is pulled from these Wikipedia list pages:</p>
+<ul>
+<li>List of current United States governors</li>
+<li>List of current United States senators</li>
+<li>List of current members of the United States House of Representatives</li>
+<li>Mayors of the 25 listed cities are hand-curated from each city's most recent election</li>
+</ul>
+<h2>How "major" is parsed</h2>
+<p>Wikipedia education entries are free text — "B.A., Government, 1979 — Harvard University" or "Yale University (J.D.)". The scraper parses each line into school, degree code (BA, JD, MBA, PhD, etc.) and field of study, using regex against a list of standard degree abbreviations. The original raw text is preserved in the underlying JSON so a reader can always check the parsing.</p>
+<p>If Wikipedia lists no education at all, the record is flagged "Not listed" — never invented.</p>
+<h2>Public vs private classification</h2>
+<p>Each unique school referenced is classified as <strong>public</strong>, <strong>private</strong>, <strong>military</strong> or <strong>foreign</strong> using two passes:</p>
+<ol>
+<li>A hardcoded list covers the Ivies, the major state flagships, the service academies and a few hundred well-known schools by name.</li>
+<li>For everything else the scraper fetches the school's Wikipedia page and reads the infobox <code>Type</code> field — "Public" or "Private" — and uses that.</li>
+</ol>
+<p>Officials who attended both a public and a private institution (state-school undergrad + Harvard Law, for example) are tagged "Public + Private" in the sector column. The filter dropdown includes a "Mixed" option for that combination.</p>
+<p>A small number of schools cannot be unambiguously classified from Wikipedia and are marked "unknown." That count is shown in the stats and is small.</p>
+<h2>Limits and known issues</h2>
+<ul>
+<li><strong>Wikipedia is the ceiling.</strong> If a biographical page omits an official's college or major, this database will too. That is more common for state-level officials and freshman House members than for senators.</li>
+<li><strong>Parsing is best-effort.</strong> Some education entries are written as prose. The parser will capture the school but may miss the major. The raw text is in the JSON for spot-checking.</li>
+<li><strong>Snapshot, not live.</strong> The roster and education data were scraped on the date shown at the top of the page. Membership changes are not reflected until the next build.</li>
+<li><strong>Public/private is institution-level.</strong> A few schools have changed status historically. The classification is current-status.</li>
+</ul>
+<h2>Reproducibility</h2>
+<p>The scraper and raw JSON are open. To rebuild from scratch, run <code>python3 scripts/scrape.py</code> from the project root. Wikipedia pages are cached locally so reruns are fast. Raw data is available as <a href="data/officials.json">officials.json</a> and <a href="data/schools.json">schools.json</a>.</p>
+<hr>
+<p style="font-size:13px;color:#666">Civic-data project. Not affiliated with any candidate, campaign or office. Corrections welcome.</p>
+</div></body></html>

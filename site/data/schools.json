@@ -1,0 +1,1982 @@
+[
+  {
+    "school": "Adelphi University",
+    "sector": "private"
+  },
+  {
+    "school": "Air University",
+    "sector": "unknown"
+  },
+  {
+    "school": "Albright College",
+    "sector": "private"
+  },
+  {
+    "school": "Alma College",
+    "sector": "private"
+  },
+  {
+    "school": "Alvin Community College",
+    "sector": "public"
+  },
+  {
+    "school": "American International College",
+    "sector": "private"
+  },
+  {
+    "school": "American Military University",
+    "sector": "private"
+  },
+  {
+    "school": "American University",
+    "sector": "private"
+  },
+  {
+    "school": "Amherst College",
+    "sector": "private"
+  },
+  {
+    "school": "Appalachian State University",
+    "sector": "public"
+  },
+  {
+    "school": "Arizona State University",
+    "sector": "public"
+  },
+  {
+    "school": "Arizona State University, Phoenix",
+    "sector": "public"
+  },
+  {
+    "school": "Arizona State University, Tempe",
+    "sector": "public"
+  },
+  {
+    "school": "Arizona Western College",
+    "sector": "public"
+  },
+  {
+    "school": "Arkansas State University",
+    "sector": "public"
+  },
+  {
+    "school": "Arkansas Tech University",
+    "sector": "public"
+  },
+  {
+    "school": "Assumption University",
+    "sector": "unknown"
+  },
+  {
+    "school": "Athens State University",
+    "sector": "public"
+  },
+  {
+    "school": "Auburn University",
+    "sector": "public"
+  },
+  {
+    "school": "Aurora University",
+    "sector": "private"
+  },
+  {
+    "school": "Ball State University",
+    "sector": "public"
+  },
+  {
+    "school": "Baltimore City Community College",
+    "sector": "public"
+  },
+  {
+    "school": "Barry University",
+    "sector": "private"
+  },
+  {
+    "school": "Bates College",
+    "sector": "private"
+  },
+  {
+    "school": "Baylor University",
+    "sector": "private"
+  },
+  {
+    "school": "Bentley University",
+    "sector": "private"
+  },
+  {
+    "school": "Bethel University",
+    "sector": "unknown"
+  },
+  {
+    "school": "Binghamton University",
+    "sector": "public"
+  },
+  {
+    "school": "Biola University",
+    "sector": "private"
+  },
+  {
+    "school": "Birmingham School of Law",
+    "sector": "unknown"
+  },
+  {
+    "school": "Birmingham-Southern College",
+    "sector": "private"
+  },
+  {
+    "school": "Bloomfield College",
+    "sector": "public"
+  },
+  {
+    "school": "Blue Ridge Community College",
+    "sector": "public"
+  },
+  {
+    "school": "Boise State University",
+    "sector": "public"
+  },
+  {
+    "school": "Boston College",
+    "sector": "private"
+  },
+  {
+    "school": "Boston University",
+    "sector": "private"
+  },
+  {
+    "school": "Bowling Green State University",
+    "sector": "public"
+  },
+  {
+    "school": "Bradley University",
+    "sector": "private"
+  },
+  {
+    "school": "Brigham Young University",
+    "sector": "private"
+  },
+  {
+    "school": "Brown University",
+    "sector": "private"
+  },
+  {
+    "school": "Bunker Hill Community College",
+    "sector": "public"
+  },
+  {
+    "school": "Butler Community College",
+    "sector": "public"
+  },
+  {
+    "school": "California Institute of Technology",
+    "sector": "private"
+  },
+  {
+    "school": "California State University, Chico",
+    "sector": "public"
+  },
+  {
+    "school": "California State University, Dominguez Hills",
+    "sector": "public"
+  },
+  {
+    "school": "California State University, Fresno",
+    "sector": "public"
+  },
+  {
+    "school": "California State University, Fullerton",
+    "sector": "public"
+  },
+  {
+    "school": "California State University, Long Beach",
+    "sector": "public"
+  },
+  {
+    "school": "California State University, Los Angeles",
+    "sector": "public"
+  },
+  {
+    "school": "Calvin College",
+    "sector": "private"
+  },
+  {
+    "school": "Camden County College",
+    "sector": "public"
+  },
+  {
+    "school": "Campbell University",
+    "sector": "private"
+  },
+  {
+    "school": "Capital University",
+    "sector": "private"
+  },
+  {
+    "school": "Carnegie Mellon University",
+    "sector": "private"
+  },
+  {
+    "school": "Carolina College of Biblical Studies",
+    "sector": "unknown"
+  },
+  {
+    "school": "Case Western Reserve University",
+    "sector": "private"
+  },
+  {
+    "school": "Casper College",
+    "sector": "public"
+  },
+  {
+    "school": "Central Connecticut State University",
+    "sector": "public"
+  },
+  {
+    "school": "Central State University",
+    "sector": "public"
+  },
+  {
+    "school": "Chaffey College",
+    "sector": "public"
+  },
+  {
+    "school": "Charleston School of Law",
+    "sector": "unknown"
+  },
+  {
+    "school": "Charleston Southern University",
+    "sector": "private"
+  },
+  {
+    "school": "Chatham University",
+    "sector": "private"
+  },
+  {
+    "school": "Chattanooga State Community College",
+    "sector": "public"
+  },
+  {
+    "school": "Christian Theological Seminary",
+    "sector": "unknown"
+  },
+  {
+    "school": "City University of Seattle",
+    "sector": "public"
+  },
+  {
+    "school": "Claremont Graduate University",
+    "sector": "private"
+  },
+  {
+    "school": "Clark Atlanta University",
+    "sector": "private"
+  },
+  {
+    "school": "Clark County Community College",
+    "sector": "public"
+  },
+  {
+    "school": "Clarkson University",
+    "sector": "private"
+  },
+  {
+    "school": "Cleary University",
+    "sector": "private"
+  },
+  {
+    "school": "Cleveland State University",
+    "sector": "public"
+  },
+  {
+    "school": "Colby College",
+    "sector": "private"
+  },
+  {
+    "school": "Colgate University",
+    "sector": "private"
+  },
+  {
+    "school": "College of Saint Benedict",
+    "sector": "private"
+  },
+  {
+    "school": "College of William and Mary",
+    "sector": "unknown"
+  },
+  {
+    "school": "College of the Atlantic",
+    "sector": "private"
+  },
+  {
+    "school": "College of the Holy Cross",
+    "sector": "private"
+  },
+  {
+    "school": "College of the Sequoias",
+    "sector": "public"
+  },
+  {
+    "school": "Colorado College",
+    "sector": "private"
+  },
+  {
+    "school": "Colorado State University",
+    "sector": "public"
+  },
+  {
+    "school": "Columbia College, South Carolina",
+    "sector": "unknown"
+  },
+  {
+    "school": "Columbia University",
+    "sector": "private"
+  },
+  {
+    "school": "Community College of Philadelphia",
+    "sector": "public"
+  },
+  {
+    "school": "Compton College",
+    "sector": "public"
+  },
+  {
+    "school": "Concordia College",
+    "sector": "unknown"
+  },
+  {
+    "school": "Concordia University, Wisconsin",
+    "sector": "private"
+  },
+  {
+    "school": "Copiah-Lincoln Community College",
+    "sector": "public"
+  },
+  {
+    "school": "Cornell University",
+    "sector": "private"
+  },
+  {
+    "school": "Creighton University",
+    "sector": "private"
+  },
+  {
+    "school": "Cuyahoga Community College",
+    "sector": "public"
+  },
+  {
+    "school": "D'Youville University",
+    "sector": "private"
+  },
+  {
+    "school": "Dartmouth College",
+    "sector": "private"
+  },
+  {
+    "school": "Davidson College",
+    "sector": "private"
+  },
+  {
+    "school": "Deep Springs College",
+    "sector": "private"
+  },
+  {
+    "school": "Del Mar College",
+    "sector": "public"
+  },
+  {
+    "school": "Dordt University",
+    "sector": "private"
+  },
+  {
+    "school": "Drake University",
+    "sector": "private"
+  },
+  {
+    "school": "Duke University",
+    "sector": "private"
+  },
+  {
+    "school": "Duquesne University",
+    "sector": "private"
+  },
+  {
+    "school": "Earlham College",
+    "sector": "private"
+  },
+  {
+    "school": "East Central Community College",
+    "sector": "public"
+  },
+  {
+    "school": "East Tennessee State University",
+    "sector": "public"
+  },
+  {
+    "school": "Eastern Illinois University",
+    "sector": "public"
+  },
+  {
+    "school": "Eastern Oregon University",
+    "sector": "public"
+  },
+  {
+    "school": "Embry-Riddle Aeronautical University, Daytona Beach",
+    "sector": "private"
+  },
+  {
+    "school": "Emerson College",
+    "sector": "private"
+  },
+  {
+    "school": "Emmanuel College",
+    "sector": "unknown"
+  },
+  {
+    "school": "Emory University",
+    "sector": "private"
+  },
+  {
+    "school": "Emory and Henry University",
+    "sector": "private"
+  },
+  {
+    "school": "Enterprise State Community College",
+    "sector": "public"
+  },
+  {
+    "school": "Excelsior University",
+    "sector": "private"
+  },
+  {
+    "school": "Fairleigh Dickinson University",
+    "sector": "private"
+  },
+  {
+    "school": "Fielding Graduate University",
+    "sector": "private"
+  },
+  {
+    "school": "Fisk University",
+    "sector": "private"
+  },
+  {
+    "school": "Florida A&M University",
+    "sector": "public"
+  },
+  {
+    "school": "Florida Atlantic University",
+    "sector": "public"
+  },
+  {
+    "school": "Florida State College at Jacksonville",
+    "sector": "public"
+  },
+  {
+    "school": "Florida State University",
+    "sector": "public"
+  },
+  {
+    "school": "Fordham University",
+    "sector": "private"
+  },
+  {
+    "school": "Fort Hays State University",
+    "sector": "public"
+  },
+  {
+    "school": "Franklin and Marshall College",
+    "sector": "private"
+  },
+  {
+    "school": "George Mason University",
+    "sector": "public"
+  },
+  {
+    "school": "George Washington University",
+    "sector": "private"
+  },
+  {
+    "school": "Georgetown University",
+    "sector": "private"
+  },
+  {
+    "school": "Georgia Institute of Technology",
+    "sector": "public"
+  },
+  {
+    "school": "Georgia State University",
+    "sector": "public"
+  },
+  {
+    "school": "Glen Oaks Community College",
+    "sector": "public"
+  },
+  {
+    "school": "Gonzaga University",
+    "sector": "private"
+  },
+  {
+    "school": "Gordon College",
+    "sector": "unknown"
+  },
+  {
+    "school": "Goucher College",
+    "sector": "private"
+  },
+  {
+    "school": "Grace College and Seminary",
+    "sector": "unknown"
+  },
+  {
+    "school": "Grinnell College",
+    "sector": "private"
+  },
+  {
+    "school": "Gulf Coast State College",
+    "sector": "public"
+  },
+  {
+    "school": "Gustavus Adolphus College",
+    "sector": "private"
+  },
+  {
+    "school": "Harvard Extension School",
+    "sector": "private"
+  },
+  {
+    "school": "Harvard University",
+    "sector": "private"
+  },
+  {
+    "school": "Haskell Indian Nations University",
+    "sector": "public"
+  },
+  {
+    "school": "Hofstra University",
+    "sector": "private"
+  },
+  {
+    "school": "Holyoke Community College",
+    "sector": "public"
+  },
+  {
+    "school": "Hope College",
+    "sector": "private"
+  },
+  {
+    "school": "Howard University",
+    "sector": "private"
+  },
+  {
+    "school": "Indiana University Bloomington",
+    "sector": "public"
+  },
+  {
+    "school": "Indiana University, Bloomington",
+    "sector": "public"
+  },
+  {
+    "school": "Indiana University, Indianapolis",
+    "sector": "public"
+  },
+  {
+    "school": "Indiana University, South Bend",
+    "sector": "unknown"
+  },
+  {
+    "school": "Indiana Wesleyan University",
+    "sector": "private"
+  },
+  {
+    "school": "Inver Hills Community College",
+    "sector": "public"
+  },
+  {
+    "school": "Iowa State University",
+    "sector": "public"
+  },
+  {
+    "school": "Jackson State University",
+    "sector": "public"
+  },
+  {
+    "school": "Jacksonville State University",
+    "sector": "public"
+  },
+  {
+    "school": "Jacksonville University",
+    "sector": "private"
+  },
+  {
+    "school": "John Marshall Law School, Chicago",
+    "sector": "unknown"
+  },
+  {
+    "school": "Johns Hopkins University",
+    "sector": "private"
+  },
+  {
+    "school": "Kansas State University",
+    "sector": "public"
+  },
+  {
+    "school": "Karnatak University",
+    "sector": "public"
+  },
+  {
+    "school": "Kean University",
+    "sector": "public"
+  },
+  {
+    "school": "Kent State University, Stark",
+    "sector": "public"
+  },
+  {
+    "school": "Kenyon College",
+    "sector": "private"
+  },
+  {
+    "school": "Kyiv National Economic University",
+    "sector": "public"
+  },
+  {
+    "school": "La Salle University",
+    "sector": "private"
+  },
+  {
+    "school": "Lake Superior State University",
+    "sector": "public"
+  },
+  {
+    "school": "Lamar University",
+    "sector": "public"
+  },
+  {
+    "school": "Lane Community College",
+    "sector": "public"
+  },
+  {
+    "school": "Lansing Community College",
+    "sector": "public"
+  },
+  {
+    "school": "Laredo College",
+    "sector": "public"
+  },
+  {
+    "school": "Lebanon Valley College",
+    "sector": "private"
+  },
+  {
+    "school": "Lee College",
+    "sector": "unknown"
+  },
+  {
+    "school": "Lewis and Clark College",
+    "sector": "private"
+  },
+  {
+    "school": "Liberty University",
+    "sector": "private"
+  },
+  {
+    "school": "Lincoln University",
+    "sector": "unknown"
+  },
+  {
+    "school": "Lindenwood University",
+    "sector": "private"
+  },
+  {
+    "school": "London School of Economics",
+    "sector": "public"
+  },
+  {
+    "school": "Loras College",
+    "sector": "private"
+  },
+  {
+    "school": "Louisiana State University",
+    "sector": "public"
+  },
+  {
+    "school": "Loyola Marymount University",
+    "sector": "private"
+  },
+  {
+    "school": "Loyola University New Orleans",
+    "sector": "private"
+  },
+  {
+    "school": "Magdalen College, Oxford",
+    "sector": "unknown"
+  },
+  {
+    "school": "Manhattan College",
+    "sector": "private"
+  },
+  {
+    "school": "Marion Military Institute",
+    "sector": "public"
+  },
+  {
+    "school": "Marquette University",
+    "sector": "private"
+  },
+  {
+    "school": "Marshall University",
+    "sector": "public"
+  },
+  {
+    "school": "Marymount College",
+    "sector": "unknown"
+  },
+  {
+    "school": "Massachusetts Institute of Technology",
+    "sector": "private"
+  },
+  {
+    "school": "Medgar Evers College",
+    "sector": "public"
+  },
+  {
+    "school": "Merced College",
+    "sector": "unknown"
+  },
+  {
+    "school": "Mercer University",
+    "sector": "private"
+  },
+  {
+    "school": "Merton College, Oxford",
+    "sector": "unknown"
+  },
+  {
+    "school": "Metropolitan State University of Denver",
+    "sector": "public"
+  },
+  {
+    "school": "Miami Dade College",
+    "sector": "public"
+  },
+  {
+    "school": "Miami University",
+    "sector": "public"
+  },
+  {
+    "school": "Michigan State University",
+    "sector": "public"
+  },
+  {
+    "school": "Middlebury College",
+    "sector": "private"
+  },
+  {
+    "school": "Mills College",
+    "sector": "private"
+  },
+  {
+    "school": "Millsaps College",
+    "sector": "private"
+  },
+  {
+    "school": "Misericordia University",
+    "sector": "private"
+  },
+  {
+    "school": "Mississippi State University",
+    "sector": "public"
+  },
+  {
+    "school": "Missouri State University",
+    "sector": "public"
+  },
+  {
+    "school": "Montana State University",
+    "sector": "public"
+  },
+  {
+    "school": "Monterey Peninsula College",
+    "sector": "public"
+  },
+  {
+    "school": "Montgomery County Community College",
+    "sector": "public"
+  },
+  {
+    "school": "Moody Bible Institute",
+    "sector": "private"
+  },
+  {
+    "school": "Morehouse College",
+    "sector": "private"
+  },
+  {
+    "school": "Morehouse School of Medicine",
+    "sector": "private"
+  },
+  {
+    "school": "Morgan State University",
+    "sector": "public"
+  },
+  {
+    "school": "Mt. San Antonio College",
+    "sector": "public"
+  },
+  {
+    "school": "Muskingum University",
+    "sector": "private"
+  },
+  {
+    "school": "Napa Valley College",
+    "sector": "public"
+  },
+  {
+    "school": "National Defense University",
+    "sector": "unknown"
+  },
+  {
+    "school": "National Labor College",
+    "sector": "private"
+  },
+  {
+    "school": "National University",
+    "sector": "unknown"
+  },
+  {
+    "school": "Naugatuck Valley Community College",
+    "sector": "public"
+  },
+  {
+    "school": "Naval Postgraduate School",
+    "sector": "military"
+  },
+  {
+    "school": "Naval War College",
+    "sector": "military"
+  },
+  {
+    "school": "New Mexico Highlands University",
+    "sector": "public"
+  },
+  {
+    "school": "New Mexico State University",
+    "sector": "public"
+  },
+  {
+    "school": "New York City College of Technology",
+    "sector": "public"
+  },
+  {
+    "school": "New York University",
+    "sector": "private"
+  },
+  {
+    "school": "Niagara University",
+    "sector": "private"
+  },
+  {
+    "school": "North Carolina A&T State University",
+    "sector": "public"
+  },
+  {
+    "school": "North Carolina State University",
+    "sector": "public"
+  },
+  {
+    "school": "North Dakota State University",
+    "sector": "public"
+  },
+  {
+    "school": "Northcentral University",
+    "sector": "private"
+  },
+  {
+    "school": "Northeastern Illinois University",
+    "sector": "public"
+  },
+  {
+    "school": "Northeastern University",
+    "sector": "private"
+  },
+  {
+    "school": "Northern Arizona University",
+    "sector": "public"
+  },
+  {
+    "school": "Northern Illinois University",
+    "sector": "public"
+  },
+  {
+    "school": "Northwest Florida State College",
+    "sector": "public"
+  },
+  {
+    "school": "Northwest Missouri State University",
+    "sector": "public"
+  },
+  {
+    "school": "Northwestern University",
+    "sector": "private"
+  },
+  {
+    "school": "Northwood University",
+    "sector": "private"
+  },
+  {
+    "school": "Nova Southeastern University",
+    "sector": "private"
+  },
+  {
+    "school": "Oberlin College",
+    "sector": "private"
+  },
+  {
+    "school": "Ohio Northern University",
+    "sector": "private"
+  },
+  {
+    "school": "Ohio State University",
+    "sector": "public"
+  },
+  {
+    "school": "Ohio University",
+    "sector": "public"
+  },
+  {
+    "school": "Oklahoma City University",
+    "sector": "public"
+  },
+  {
+    "school": "Oklahoma State University, Stillwater",
+    "sector": "public"
+  },
+  {
+    "school": "Old Dominion University",
+    "sector": "public"
+  },
+  {
+    "school": "Oral Roberts University",
+    "sector": "private"
+  },
+  {
+    "school": "Oregon State University",
+    "sector": "public"
+  },
+  {
+    "school": "Ouachita Baptist University",
+    "sector": "private"
+  },
+  {
+    "school": "Pacific Lutheran University",
+    "sector": "private"
+  },
+  {
+    "school": "Palm Beach Atlantic University",
+    "sector": "private"
+  },
+  {
+    "school": "Patrick Henry College",
+    "sector": "private"
+  },
+  {
+    "school": "Pembroke College, Oxford",
+    "sector": "unknown"
+  },
+  {
+    "school": "Pennsylvania State University",
+    "sector": "public"
+  },
+  {
+    "school": "Pennsylvania State University, Altoona",
+    "sector": "public"
+  },
+  {
+    "school": "Pennsylvania State University, Behrend",
+    "sector": "public"
+  },
+  {
+    "school": "Pepperdine University",
+    "sector": "private"
+  },
+  {
+    "school": "Pima Community College",
+    "sector": "public"
+  },
+  {
+    "school": "Pomona College",
+    "sector": "private"
+  },
+  {
+    "school": "Prairie View A&M University",
+    "sector": "public"
+  },
+  {
+    "school": "Presbyterian College",
+    "sector": "private"
+  },
+  {
+    "school": "Princeton University",
+    "sector": "private"
+  },
+  {
+    "school": "Purdue University",
+    "sector": "public"
+  },
+  {
+    "school": "Purdue University, West Lafayette",
+    "sector": "unknown"
+  },
+  {
+    "school": "Queen's College, Oxford",
+    "sector": "unknown"
+  },
+  {
+    "school": "Queens College",
+    "sector": "public"
+  },
+  {
+    "school": "Queens University",
+    "sector": "unknown"
+  },
+  {
+    "school": "Reed College",
+    "sector": "private"
+  },
+  {
+    "school": "Rensselaer Polytechnic Institute",
+    "sector": "private"
+  },
+  {
+    "school": "Rhodes College",
+    "sector": "private"
+  },
+  {
+    "school": "Rio Hondo College",
+    "sector": "public"
+  },
+  {
+    "school": "Roosevelt University",
+    "sector": "private"
+  },
+  {
+    "school": "Rutgers University",
+    "sector": "public"
+  },
+  {
+    "school": "Rutgers University, Camden",
+    "sector": "public"
+  },
+  {
+    "school": "Rutgers University, New Brunswick",
+    "sector": "public"
+  },
+  {
+    "school": "Rutgers University, Newark",
+    "sector": "public"
+  },
+  {
+    "school": "Rutgers University\u2013New Brunswick",
+    "sector": "public"
+  },
+  {
+    "school": "Rutgers University\u2013Newark",
+    "sector": "public"
+  },
+  {
+    "school": "Saint Louis University",
+    "sector": "private"
+  },
+  {
+    "school": "Saint Mary's College of California",
+    "sector": "private"
+  },
+  {
+    "school": "Saint Paul School of Theology",
+    "sector": "private"
+  },
+  {
+    "school": "Sam Houston State University",
+    "sector": "public"
+  },
+  {
+    "school": "Samford University",
+    "sector": "private"
+  },
+  {
+    "school": "San Diego State University",
+    "sector": "public"
+  },
+  {
+    "school": "San Francisco State University",
+    "sector": "public"
+  },
+  {
+    "school": "Santa Clara University",
+    "sector": "private"
+  },
+  {
+    "school": "Scottsdale Community College",
+    "sector": "public"
+  },
+  {
+    "school": "Seton Hall University",
+    "sector": "private"
+  },
+  {
+    "school": "Shippensburg University",
+    "sector": "public"
+  },
+  {
+    "school": "Siena Heights University",
+    "sector": "private"
+  },
+  {
+    "school": "Smith College",
+    "sector": "private"
+  },
+  {
+    "school": "Snow College",
+    "sector": "public"
+  },
+  {
+    "school": "South Carolina State University",
+    "sector": "public"
+  },
+  {
+    "school": "South Dakota State University",
+    "sector": "public"
+  },
+  {
+    "school": "South Plains College",
+    "sector": "public"
+  },
+  {
+    "school": "Southeastern Baptist Theological Seminary",
+    "sector": "private"
+  },
+  {
+    "school": "Southeastern Oklahoma State University",
+    "sector": "public"
+  },
+  {
+    "school": "Southern Arkansas University",
+    "sector": "public"
+  },
+  {
+    "school": "Southern College of Optometry",
+    "sector": "private"
+  },
+  {
+    "school": "Southern Connecticut State University",
+    "sector": "public"
+  },
+  {
+    "school": "Southern Methodist University",
+    "sector": "private"
+  },
+  {
+    "school": "Southern University",
+    "sector": "public"
+  },
+  {
+    "school": "Southern Utah University",
+    "sector": "public"
+  },
+  {
+    "school": "Southwestern Baptist Theological Seminary",
+    "sector": "private"
+  },
+  {
+    "school": "Southwestern University",
+    "sector": "private"
+  },
+  {
+    "school": "St Edmund Hall, Oxford",
+    "sector": "unknown"
+  },
+  {
+    "school": "St Hilda's College, Oxford",
+    "sector": "unknown"
+  },
+  {
+    "school": "St. Catherine University",
+    "sector": "private"
+  },
+  {
+    "school": "St. Cloud State University",
+    "sector": "public"
+  },
+  {
+    "school": "St. John's College, Cambridge",
+    "sector": "unknown"
+  },
+  {
+    "school": "St. Lawrence University",
+    "sector": "private"
+  },
+  {
+    "school": "St. Mary's University",
+    "sector": "unknown"
+  },
+  {
+    "school": "St. Mary's University, Texas",
+    "sector": "private"
+  },
+  {
+    "school": "St. Norbert College",
+    "sector": "private"
+  },
+  {
+    "school": "St. Petersburg College",
+    "sector": "public"
+  },
+  {
+    "school": "Stanford University",
+    "sector": "private"
+  },
+  {
+    "school": "State University of New York, Geneseo",
+    "sector": "public"
+  },
+  {
+    "school": "State University of New York, Maritime College",
+    "sector": "public"
+  },
+  {
+    "school": "State University of New York, Oswego",
+    "sector": "public"
+  },
+  {
+    "school": "Stetson University",
+    "sector": "private"
+  },
+  {
+    "school": "Stevens Institute of Technology",
+    "sector": "private"
+  },
+  {
+    "school": "Swarthmore College",
+    "sector": "private"
+  },
+  {
+    "school": "Syracuse University",
+    "sector": "private"
+  },
+  {
+    "school": "Talladega College",
+    "sector": "private"
+  },
+  {
+    "school": "Taylor University",
+    "sector": "private"
+  },
+  {
+    "school": "Temple University",
+    "sector": "public"
+  },
+  {
+    "school": "Tennessee Technological University",
+    "sector": "public"
+  },
+  {
+    "school": "Tennessee TechnologicalUniversity",
+    "sector": "unknown"
+  },
+  {
+    "school": "Texas A&M International University",
+    "sector": "public"
+  },
+  {
+    "school": "Texas A&M University, Galveston",
+    "sector": "public"
+  },
+  {
+    "school": "Texas Christian University",
+    "sector": "private"
+  },
+  {
+    "school": "Texas Southern University",
+    "sector": "public"
+  },
+  {
+    "school": "Texas State University",
+    "sector": "public"
+  },
+  {
+    "school": "Texas Tech University",
+    "sector": "public"
+  },
+  {
+    "school": "Texas Wesleyan University",
+    "sector": "private"
+  },
+  {
+    "school": "Texas Woman's University",
+    "sector": "public"
+  },
+  {
+    "school": "The Citadel",
+    "sector": "military"
+  },
+  {
+    "school": "Thomas Edison State University",
+    "sector": "public"
+  },
+  {
+    "school": "Thomas M. Cooley Law School",
+    "sector": "unknown"
+  },
+  {
+    "school": "Tougaloo College",
+    "sector": "private"
+  },
+  {
+    "school": "Towson University",
+    "sector": "public"
+  },
+  {
+    "school": "Trenton State College",
+    "sector": "public"
+  },
+  {
+    "school": "Trident Technical College",
+    "sector": "unknown"
+  },
+  {
+    "school": "Trine University",
+    "sector": "private"
+  },
+  {
+    "school": "Trinity College, Washington",
+    "sector": "unknown"
+  },
+  {
+    "school": "Trinity University",
+    "sector": "private"
+  },
+  {
+    "school": "Troy University",
+    "sector": "public"
+  },
+  {
+    "school": "Truman State University",
+    "sector": "public"
+  },
+  {
+    "school": "Tufts University",
+    "sector": "private"
+  },
+  {
+    "school": "Tulane University",
+    "sector": "private"
+  },
+  {
+    "school": "Tuskegee University",
+    "sector": "private"
+  },
+  {
+    "school": "Union Theological Seminary",
+    "sector": "private"
+  },
+  {
+    "school": "United States Air Force Academy",
+    "sector": "military"
+  },
+  {
+    "school": "United States Army Command and General Staff College",
+    "sector": "unknown"
+  },
+  {
+    "school": "United States Merchant Marine Academy",
+    "sector": "military"
+  },
+  {
+    "school": "United States Military Academy",
+    "sector": "military"
+  },
+  {
+    "school": "United States Naval Academy",
+    "sector": "military"
+  },
+  {
+    "school": "University of Akron",
+    "sector": "public"
+  },
+  {
+    "school": "University of Alabama",
+    "sector": "public"
+  },
+  {
+    "school": "University of Alaska Fairbanks",
+    "sector": "public"
+  },
+  {
+    "school": "University of Arizona",
+    "sector": "public"
+  },
+  {
+    "school": "University of Arkansas",
+    "sector": "public"
+  },
+  {
+    "school": "University of Arkansas, Little Rock",
+    "sector": "public"
+  },
+  {
+    "school": "University of Arkansas, Pine Bluff",
+    "sector": "public"
+  },
+  {
+    "school": "University of Bridgeport",
+    "sector": "public"
+  },
+  {
+    "school": "University of California, Berkeley",
+    "sector": "public"
+  },
+  {
+    "school": "University of California, Davis",
+    "sector": "public"
+  },
+  {
+    "school": "University of California, Hastings",
+    "sector": "unknown"
+  },
+  {
+    "school": "University of California, Irvine",
+    "sector": "public"
+  },
+  {
+    "school": "University of California, Los Angeles",
+    "sector": "public"
+  },
+  {
+    "school": "University of California, Riverside",
+    "sector": "public"
+  },
+  {
+    "school": "University of California, Santa Barbara",
+    "sector": "public"
+  },
+  {
+    "school": "University of Chicago",
+    "sector": "private"
+  },
+  {
+    "school": "University of Cincinnati",
+    "sector": "public"
+  },
+  {
+    "school": "University of Colorado, Boulder",
+    "sector": "public"
+  },
+  {
+    "school": "University of Connecticut",
+    "sector": "public"
+  },
+  {
+    "school": "University of Dayton",
+    "sector": "public"
+  },
+  {
+    "school": "University of Delaware",
+    "sector": "public"
+  },
+  {
+    "school": "University of Denver",
+    "sector": "private"
+  },
+  {
+    "school": "University of Detroit",
+    "sector": "public"
+  },
+  {
+    "school": "University of Florida",
+    "sector": "public"
+  },
+  {
+    "school": "University of Georgia",
+    "sector": "public"
+  },
+  {
+    "school": "University of Hartford",
+    "sector": "public"
+  },
+  {
+    "school": "University of Hawaii, Manoa",
+    "sector": "public"
+  },
+  {
+    "school": "University of Holy Cross",
+    "sector": "public"
+  },
+  {
+    "school": "University of Houston",
+    "sector": "public"
+  },
+  {
+    "school": "University of Houston, Clear Lake",
+    "sector": "public"
+  },
+  {
+    "school": "University of Houston, Downtown",
+    "sector": "public"
+  },
+  {
+    "school": "University of Idaho",
+    "sector": "public"
+  },
+  {
+    "school": "University of Illinois Chicago",
+    "sector": "public"
+  },
+  {
+    "school": "University of Illinois, Urbana-Champaign",
+    "sector": "public"
+  },
+  {
+    "school": "University of Iowa",
+    "sector": "public"
+  },
+  {
+    "school": "University of Kansas",
+    "sector": "public"
+  },
+  {
+    "school": "University of Kentucky",
+    "sector": "public"
+  },
+  {
+    "school": "University of Leicester",
+    "sector": "public"
+  },
+  {
+    "school": "University of London",
+    "sector": "public"
+  },
+  {
+    "school": "University of Louisiana, Lafayette",
+    "sector": "public"
+  },
+  {
+    "school": "University of Louisiana, Monroe",
+    "sector": "public"
+  },
+  {
+    "school": "University of Louisville",
+    "sector": "public"
+  },
+  {
+    "school": "University of Maine School of Law",
+    "sector": "unknown"
+  },
+  {
+    "school": "University of Maine, Farmington",
+    "sector": "public"
+  },
+  {
+    "school": "University of Mary",
+    "sector": "public"
+  },
+  {
+    "school": "University of Maryland, Baltimore",
+    "sector": "public"
+  },
+  {
+    "school": "University of Maryland, Baltimore County",
+    "sector": "public"
+  },
+  {
+    "school": "University of Maryland, College Park",
+    "sector": "public"
+  },
+  {
+    "school": "University of Maryland, University College",
+    "sector": "public"
+  },
+  {
+    "school": "University of Massachusetts, Amherst",
+    "sector": "public"
+  },
+  {
+    "school": "University of Massachusetts, Boston",
+    "sector": "public"
+  },
+  {
+    "school": "University of Memphis",
+    "sector": "public"
+  },
+  {
+    "school": "University of Miami",
+    "sector": "private"
+  },
+  {
+    "school": "University of Michigan",
+    "sector": "public"
+  },
+  {
+    "school": "University of Michigan, Flint",
+    "sector": "public"
+  },
+  {
+    "school": "University of Minnesota",
+    "sector": "public"
+  },
+  {
+    "school": "University of Mississippi",
+    "sector": "public"
+  },
+  {
+    "school": "University of Missouri",
+    "sector": "public"
+  },
+  {
+    "school": "University of Mumbai",
+    "sector": "public"
+  },
+  {
+    "school": "University of Nebraska, Lincoln",
+    "sector": "public"
+  },
+  {
+    "school": "University of Nebraska\u2013Lincoln",
+    "sector": "public"
+  },
+  {
+    "school": "University of Nevada, Las Vegas",
+    "sector": "public"
+  },
+  {
+    "school": "University of Nevada, Reno",
+    "sector": "public"
+  },
+  {
+    "school": "University of New Mexico",
+    "sector": "public"
+  },
+  {
+    "school": "University of North Alabama",
+    "sector": "public"
+  },
+  {
+    "school": "University of North Carolina at Chapel Hill",
+    "sector": "public"
+  },
+  {
+    "school": "University of North Carolina at Charlotte",
+    "sector": "public"
+  },
+  {
+    "school": "University of North Carolina, Chapel Hill",
+    "sector": "public"
+  },
+  {
+    "school": "University of North Carolina, Charlotte",
+    "sector": "public"
+  },
+  {
+    "school": "University of North Carolina, Greensboro",
+    "sector": "public"
+  },
+  {
+    "school": "University of North Dakota",
+    "sector": "public"
+  },
+  {
+    "school": "University of Northern Iowa",
+    "sector": "public"
+  },
+  {
+    "school": "University of Notre Dame",
+    "sector": "private"
+  },
+  {
+    "school": "University of Oklahoma",
+    "sector": "public"
+  },
+  {
+    "school": "University of Oregon",
+    "sector": "public"
+  },
+  {
+    "school": "University of Pennsylvania",
+    "sector": "private"
+  },
+  {
+    "school": "University of Puerto Rico, R\u00edo Piedras",
+    "sector": "public"
+  },
+  {
+    "school": "University of Redlands",
+    "sector": "public"
+  },
+  {
+    "school": "University of Richmond",
+    "sector": "private"
+  },
+  {
+    "school": "University of Rochester",
+    "sector": "public"
+  },
+  {
+    "school": "University of Saint Joseph",
+    "sector": "public"
+  },
+  {
+    "school": "University of San Diego",
+    "sector": "private"
+  },
+  {
+    "school": "University of San Francisco",
+    "sector": "public"
+  },
+  {
+    "school": "University of Scranton",
+    "sector": "public"
+  },
+  {
+    "school": "University of South Carolina",
+    "sector": "public"
+  },
+  {
+    "school": "University of South Dakota",
+    "sector": "public"
+  },
+  {
+    "school": "University of South Florida",
+    "sector": "public"
+  },
+  {
+    "school": "University of Southern California",
+    "sector": "private"
+  },
+  {
+    "school": "University of Southern Maine",
+    "sector": "public"
+  },
+  {
+    "school": "University of Southern Mississippi",
+    "sector": "public"
+  },
+  {
+    "school": "University of Tennessee",
+    "sector": "public"
+  },
+  {
+    "school": "University of Texas Medical Branch",
+    "sector": "public"
+  },
+  {
+    "school": "University of Texas at Austin",
+    "sector": "public"
+  },
+  {
+    "school": "University of Texas, Austin",
+    "sector": "public"
+  },
+  {
+    "school": "University of Texas, Dallas",
+    "sector": "public"
+  },
+  {
+    "school": "University of Texas, El Paso",
+    "sector": "public"
+  },
+  {
+    "school": "University of Texas, Houston",
+    "sector": "unknown"
+  },
+  {
+    "school": "University of Texas, San Antonio",
+    "sector": "public"
+  },
+  {
+    "school": "University of Toledo",
+    "sector": "public"
+  },
+  {
+    "school": "University of Utah",
+    "sector": "public"
+  },
+  {
+    "school": "University of Vermont",
+    "sector": "public"
+  },
+  {
+    "school": "University of Virginia",
+    "sector": "public"
+  },
+  {
+    "school": "University of Washington",
+    "sector": "public"
+  },
+  {
+    "school": "University of West Florida",
+    "sector": "public"
+  },
+  {
+    "school": "University of Wisconsin, Madison",
+    "sector": "public"
+  },
+  {
+    "school": "University of Wisconsin, Milwaukee",
+    "sector": "public"
+  },
+  {
+    "school": "University of Wisconsin, Oshkosh",
+    "sector": "public"
+  },
+  {
+    "school": "University of Wisconsin, River Falls",
+    "sector": "public"
+  },
+  {
+    "school": "University of Wyoming",
+    "sector": "public"
+  },
+  {
+    "school": "Upper Iowa University",
+    "sector": "private"
+  },
+  {
+    "school": "Utah State University",
+    "sector": "public"
+  },
+  {
+    "school": "Valencia College",
+    "sector": "public"
+  },
+  {
+    "school": "Valley Forge Military College",
+    "sector": "private"
+  },
+  {
+    "school": "Vanderbilt University",
+    "sector": "private"
+  },
+  {
+    "school": "Villanova University",
+    "sector": "private"
+  },
+  {
+    "school": "Virginia Commonwealth University",
+    "sector": "public"
+  },
+  {
+    "school": "Virginia State University",
+    "sector": "public"
+  },
+  {
+    "school": "Virginia Tech",
+    "sector": "public"
+  },
+  {
+    "school": "Wabash College",
+    "sector": "private"
+  },
+  {
+    "school": "Wagner College",
+    "sector": "private"
+  },
+  {
+    "school": "Wake Forest University",
+    "sector": "private"
+  },
+  {
+    "school": "Warren Wilson College",
+    "sector": "private"
+  },
+  {
+    "school": "Washington State University",
+    "sector": "public"
+  },
+  {
+    "school": "Washington University",
+    "sector": "unknown"
+  },
+  {
+    "school": "Washington and Lee University",
+    "sector": "private"
+  },
+  {
+    "school": "Wayland Baptist University",
+    "sector": "private"
+  },
+  {
+    "school": "Wayne State University",
+    "sector": "public"
+  },
+  {
+    "school": "Wellesley College",
+    "sector": "private"
+  },
+  {
+    "school": "Wentworth Institute of Technology",
+    "sector": "private"
+  },
+  {
+    "school": "Wesleyan University",
+    "sector": "private"
+  },
+  {
+    "school": "Western Illinois University",
+    "sector": "public"
+  },
+  {
+    "school": "Western Kentucky University",
+    "sector": "public"
+  },
+  {
+    "school": "Western Michigan University",
+    "sector": "public"
+  },
+  {
+    "school": "Western Washington University",
+    "sector": "public"
+  },
+  {
+    "school": "Wheaton College",
+    "sector": "private"
+  },
+  {
+    "school": "Widener University",
+    "sector": "private"
+  },
+  {
+    "school": "Wilberforce University",
+    "sector": "private"
+  },
+  {
+    "school": "Willamette University",
+    "sector": "private"
+  },
+  {
+    "school": "William Mitchell College of Law",
+    "sector": "unknown"
+  },
+  {
+    "school": "Williams College",
+    "sector": "private"
+  },
+  {
+    "school": "Wright State University",
+    "sector": "public"
+  },
+  {
+    "school": "Xavier University of Louisiana",
+    "sector": "private"
+  },
+  {
+    "school": "Yale University",
+    "sector": "private"
+  },
+  {
+    "school": "Yeshiva University",
+    "sector": "private"
+  },
+  {
+    "school": "Young Harris College",
+    "sector": "private"
+  }
+]

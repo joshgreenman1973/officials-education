@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Where America's leaders went to school</title>
+<meta name="description" content="Searchable database of college majors and graduate degrees for US senators, representatives, governors and big-city mayors.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,500;8..60,700&display=swap" rel="stylesheet">
+<style>
+  :root{--ink:#111;--ink-soft:#333;--muted:#666;--line:#111;--line-soft:#d8d8d3;--paper:#f4f1ea;--bg:#fbfaf6;--accent:#0a4d4d;--pub:#0a4d4d;--priv:#9c2a2a;--other:#7a6a3c;}
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);font-family:'Inter',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:1280px;margin:0 auto;padding:28px 22px 80px}
+  header.masthead{border-bottom:2px solid var(--line);padding-bottom:18px;margin-bottom:22px}
+  .kicker{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);font-weight:600}
+  h1{font-family:'Source Serif 4',Georgia,serif;font-weight:700;font-size:clamp(28px,4vw,44px);line-height:1.05;margin:6px 0 8px;letter-spacing:-.01em}
+  .dek{font-family:'Source Serif 4',Georgia,serif;font-size:17px;color:var(--ink-soft);max-width:780px;line-height:1.45;margin:0}
+  .meta{display:flex;flex-wrap:wrap;gap:14px;font-size:12px;color:var(--muted);margin-top:14px}
+  .meta a{color:var(--muted);text-decoration:underline}
+  .controls{display:grid;grid-template-columns:1.4fr repeat(5,1fr) auto;gap:10px;margin:18px 0 14px;align-items:end}
+  @media (max-width:980px){.controls{grid-template-columns:1fr 1fr}}
+  .ctl label{display:block;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:4px;font-weight:600}
+  .ctl input,.ctl select{width:100%;padding:8px 10px;border:1px solid var(--line);background:#fff;font:inherit;font-size:14px;border-radius:0}
+  .ctl input:focus,.ctl select:focus{outline:2px solid var(--accent);outline-offset:-1px}
+  button.reset{padding:8px 12px;border:1px solid var(--line);background:#fff;font:inherit;font-size:13px;cursor:pointer;height:34px}
+  button.reset:hover{background:var(--paper)}
+  .stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0;border:1px solid var(--line);background:var(--paper);margin-bottom:18px}
+  .stat{padding:12px 14px;border-right:1px solid var(--line)}
+  .stat:last-child{border-right:0}
+  .stat .n{font-family:'Source Serif 4',Georgia,serif;font-size:28px;font-weight:700;line-height:1}
+  .stat .l{font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-top:6px}
+  table{width:100%;border-collapse:collapse;font-size:13.5px;background:#fff;border:1px solid var(--line)}
+  thead th{background:var(--paper);text-align:left;padding:9px 10px;border-bottom:2px solid var(--line);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink);cursor:pointer;user-select:none;white-space:nowrap}
+  thead th .arr{color:var(--muted);font-size:10px;margin-left:3px}
+  tbody td{padding:9px 10px;border-bottom:1px solid var(--line-soft);vertical-align:top}
+  tbody tr:hover{background:#fafaf3}
+  td.name{font-weight:600;white-space:nowrap}
+  td.name a{color:var(--ink);text-decoration:none;border-bottom:1px dotted var(--muted)}
+  td.name a:hover{border-bottom-color:var(--ink)}
+  .tag{display:inline-block;padding:1px 6px;font-size:10.5px;letter-spacing:.04em;border:1px solid var(--line);border-radius:999px;line-height:1.6;vertical-align:middle}
+  .tag.D{background:#e6eef7;border-color:#456ea0;color:#1d3f6e}
+  .tag.R{background:#f7e6e6;border-color:#a04545;color:#6e1d1d}
+  .tag.I{background:#efefef;border-color:#666;color:#333}
+  .sector{display:inline-block;padding:1px 6px;font-size:10.5px;border-radius:2px;text-transform:uppercase;letter-spacing:.06em;font-weight:600}
+  .sector.public{background:#dceeee;color:var(--pub)}
+  .sector.private{background:#f3dada;color:var(--priv)}
+  .sector.foreign,.sector.military,.sector.unknown{background:#ece7d3;color:var(--other)}
+  .schools-cell .row{margin-bottom:3px}
+  .schools-cell .row:last-child{margin-bottom:0}
+  .schools-cell .deg{color:var(--muted);font-size:12px}
+  .empty{padding:40px;text-align:center;color:var(--muted);font-style:italic}
+  footer{margin-top:30px;font-size:12px;color:var(--muted);line-height:1.5;border-top:1px solid var(--line-soft);padding-top:14px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="masthead">
+    <div class="kicker">Civic dataset</div>
+    <h1>Where America's leaders went to school</h1>
+    <p class="dek">Every sitting US senator, representative, governor and the mayors of the 25 largest cities — with the colleges they attended, what they majored in and any graduate degrees on record. Searchable, sortable, filterable by public or private institution.</p>
+    <div class="meta">
+      <span>Source: Wikipedia (infobox education field)</span>
+      <span>Last refreshed: <span id="refreshed">—</span></span>
+      <a href="methodology.html">Methodology</a>
+      <a href="data/officials.json">Raw data (JSON)</a>
+    </div>
+  </header>
+  <section class="stats" id="stats"></section>
+  <div class="controls">
+    <div class="ctl"><label for="q">Search name, school, major</label><input id="q" type="search" placeholder="e.g. Harvard, Economics, Pelosi"></div>
+    <div class="ctl"><label for="f-office">Office</label><select id="f-office"><option value="">All</option></select></div>
+    <div class="ctl"><label for="f-state">State</label><select id="f-state"><option value="">All</option></select></div>
+    <div class="ctl"><label for="f-party">Party</label><select id="f-party"><option value="">All</option></select></div>
+    <div class="ctl"><label for="f-sector">School sector</label><select id="f-sector"><option value="">All</option><option value="public">Public</option><option value="private">Private</option><option value="mixed">Mixed (both)</option><option value="foreign">Foreign</option><option value="military">Military</option></select></div>
+    <div class="ctl"><label for="f-degree">Highest degree</label><select id="f-degree"><option value="">All</option><option value="None">None on record</option><option value="Bachelor">Bachelor's</option><option value="Master">Master's</option><option value="JD">JD</option><option value="MD">MD</option><option value="PhD">PhD / doctoral</option></select></div>
+    <button class="reset" id="reset">Reset</button>
+  </div>
+  <div id="table-wrap">
+    <table id="tbl">
+      <thead>
+        <tr>
+          <th data-k="name">Name <span class="arr"></span></th>
+          <th data-k="office">Office <span class="arr"></span></th>
+          <th data-k="state">State <span class="arr"></span></th>
+          <th data-k="party">Party <span class="arr"></span></th>
+          <th data-k="undergrad">Undergraduate <span class="arr"></span></th>
+          <th data-k="major">Major <span class="arr"></span></th>
+          <th data-k="grad">Graduate <span class="arr"></span></th>
+          <th data-k="sector">Sector <span class="arr"></span></th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+    <div id="empty" class="empty" style="display:none">No officials match these filters.</div>
+  </div>
+  <footer>
+    Compiled from Wikipedia infobox education fields and cross-checked against each official's biographical page. Some records are incomplete where education is not publicly listed; these are flagged "Not listed" rather than guessed. Public vs private classification follows each institution's Wikipedia "Type" field. This is a civic-data project, not affiliated with any candidate or office.
+  </footer>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

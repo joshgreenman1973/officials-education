@@ -1,0 +1,5447 @@
+[
+  {
+    "name": "Kay Ivey",
+    "office": "Governor",
+    "state": "AL",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kay_Ivey"
+  },
+  {
+    "name": "Mike Dunleavy",
+    "office": "Governor",
+    "state": "AK",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Dunleavy_(politician)"
+  },
+  {
+    "name": "Katie Hobbs",
+    "office": "Governor",
+    "state": "AZ",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Katie_Hobbs"
+  },
+  {
+    "name": "Sarah Huckabee Sanders",
+    "office": "Governor",
+    "state": "AR",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sarah_Huckabee_Sanders"
+  },
+  {
+    "name": "Gavin Newsom",
+    "office": "Governor",
+    "state": "CA",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gavin_Newsom"
+  },
+  {
+    "name": "Jared Polis",
+    "office": "Governor",
+    "state": "CO",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jared_Polis"
+  },
+  {
+    "name": "Ned Lamont",
+    "office": "Governor",
+    "state": "CT",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ned_Lamont"
+  },
+  {
+    "name": "Matt Meyer",
+    "office": "Governor",
+    "state": "DE",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Matt_Meyer"
+  },
+  {
+    "name": "Ron DeSantis",
+    "office": "Governor",
+    "state": "FL",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ron_DeSantis"
+  },
+  {
+    "name": "Brian Kemp",
+    "office": "Governor",
+    "state": "GA",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brian_Kemp"
+  },
+  {
+    "name": "Josh Green",
+    "office": "Governor",
+    "state": "HI",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Josh_Green_(politician)"
+  },
+  {
+    "name": "Brad Little",
+    "office": "Governor",
+    "state": "ID",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brad_Little"
+  },
+  {
+    "name": "JB Pritzker",
+    "office": "Governor",
+    "state": "IL",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/JB_Pritzker"
+  },
+  {
+    "name": "Mike Braun",
+    "office": "Governor",
+    "state": "IN",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Braun"
+  },
+  {
+    "name": "Kim Reynolds",
+    "office": "Governor",
+    "state": "IA",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kim_Reynolds"
+  },
+  {
+    "name": "Laura Kelly",
+    "office": "Governor",
+    "state": "KS",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Laura_Kelly"
+  },
+  {
+    "name": "Andy Beshear",
+    "office": "Governor",
+    "state": "KY",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Andy_Beshear"
+  },
+  {
+    "name": "Jeff Landry",
+    "office": "Governor",
+    "state": "LA",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jeff_Landry"
+  },
+  {
+    "name": "Janet Mills",
+    "office": "Governor",
+    "state": "ME",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Janet_Mills"
+  },
+  {
+    "name": "Wes Moore",
+    "office": "Governor",
+    "state": "MD",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wes_Moore"
+  },
+  {
+    "name": "Maura Healey",
+    "office": "Governor",
+    "state": "MA",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maura_Healey"
+  },
+  {
+    "name": "Gretchen Whitmer",
+    "office": "Governor",
+    "state": "MI",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gretchen_Whitmer"
+  },
+  {
+    "name": "Tim Walz",
+    "office": "Governor",
+    "state": "MN",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Walz"
+  },
+  {
+    "name": "Tate Reeves",
+    "office": "Governor",
+    "state": "MS",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tate_Reeves"
+  },
+  {
+    "name": "Mike Kehoe",
+    "office": "Governor",
+    "state": "MO",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Kehoe"
+  },
+  {
+    "name": "Greg Gianforte",
+    "office": "Governor",
+    "state": "MT",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Greg_Gianforte"
+  },
+  {
+    "name": "Jim Pillen",
+    "office": "Governor",
+    "state": "NE",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Pillen"
+  },
+  {
+    "name": "Joe Lombardo",
+    "office": "Governor",
+    "state": "NV",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Joe_Lombardo"
+  },
+  {
+    "name": "Kelly Ayotte",
+    "office": "Governor",
+    "state": "NH",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kelly_Ayotte"
+  },
+  {
+    "name": "Mikie Sherrill",
+    "office": "Governor",
+    "state": "NJ",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mikie_Sherrill"
+  },
+  {
+    "name": "Michelle Lujan Grisham",
+    "office": "Governor",
+    "state": "NM",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Michelle_Lujan_Grisham"
+  },
+  {
+    "name": "Kathy Hochul",
+    "office": "Governor",
+    "state": "NY",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kathy_Hochul"
+  },
+  {
+    "name": "Josh Stein",
+    "office": "Governor",
+    "state": "NC",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Josh_Stein"
+  },
+  {
+    "name": "Kelly Armstrong",
+    "office": "Governor",
+    "state": "ND",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kelly_Armstrong"
+  },
+  {
+    "name": "Mike DeWine",
+    "office": "Governor",
+    "state": "OH",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_DeWine"
+  },
+  {
+    "name": "Kevin Stitt",
+    "office": "Governor",
+    "state": "OK",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_Stitt"
+  },
+  {
+    "name": "Tina Kotek",
+    "office": "Governor",
+    "state": "OR",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tina_Kotek"
+  },
+  {
+    "name": "Josh Shapiro",
+    "office": "Governor",
+    "state": "PA",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Josh_Shapiro"
+  },
+  {
+    "name": "Dan McKee",
+    "office": "Governor",
+    "state": "RI",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_McKee"
+  },
+  {
+    "name": "Henry McMaster",
+    "office": "Governor",
+    "state": "SC",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_McMaster"
+  },
+  {
+    "name": "Larry Rhoden",
+    "office": "Governor",
+    "state": "SD",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Larry_Rhoden"
+  },
+  {
+    "name": "Bill Lee",
+    "office": "Governor",
+    "state": "TN",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_Lee_(Tennessee_politician)"
+  },
+  {
+    "name": "Greg Abbott",
+    "office": "Governor",
+    "state": "TX",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Greg_Abbott"
+  },
+  {
+    "name": "Spencer Cox",
+    "office": "Governor",
+    "state": "UT",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spencer_Cox_(politician)"
+  },
+  {
+    "name": "Phil Scott",
+    "office": "Governor",
+    "state": "VT",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Phil_Scott"
+  },
+  {
+    "name": "Abigail Spanberger",
+    "office": "Governor",
+    "state": "VA",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Abigail_Spanberger"
+  },
+  {
+    "name": "Bob Ferguson",
+    "office": "Governor",
+    "state": "WA",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bob_Ferguson_(politician)"
+  },
+  {
+    "name": "Patrick Morrisey",
+    "office": "Governor",
+    "state": "WV",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Morrisey"
+  },
+  {
+    "name": "Tony Evers",
+    "office": "Governor",
+    "state": "WI",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tony_Evers"
+  },
+  {
+    "name": "Mark Gordon",
+    "office": "Governor",
+    "state": "WY",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Gordon"
+  },
+  {
+    "name": "Tommy Tuberville",
+    "office": "Senator",
+    "state": "AL",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tommy_Tuberville"
+  },
+  {
+    "name": "Katie Britt",
+    "office": "Senator",
+    "state": "AL",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Katie_Britt"
+  },
+  {
+    "name": "Lisa Murkowski",
+    "office": "Senator",
+    "state": "AK",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lisa_Murkowski"
+  },
+  {
+    "name": "Dan Sullivan",
+    "office": "Senator",
+    "state": "AK",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._senator)"
+  },
+  {
+    "name": "Mark Kelly",
+    "office": "Senator",
+    "state": "AZ",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Kelly"
+  },
+  {
+    "name": "Ruben Gallego",
+    "office": "Senator",
+    "state": "AZ",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ruben_Gallego"
+  },
+  {
+    "name": "John Boozman",
+    "office": "Senator",
+    "state": "AR",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Boozman"
+  },
+  {
+    "name": "Tom Cotton",
+    "office": "Senator",
+    "state": "AR",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tom_Cotton"
+  },
+  {
+    "name": "Alex Padilla",
+    "office": "Senator",
+    "state": "CA",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alex_Padilla"
+  },
+  {
+    "name": "Adam Schiff",
+    "office": "Senator",
+    "state": "CA",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Adam_Schiff"
+  },
+  {
+    "name": "Michael Bennet",
+    "office": "Senator",
+    "state": "CO",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Bennet"
+  },
+  {
+    "name": "John Hickenlooper",
+    "office": "Senator",
+    "state": "CO",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Hickenlooper"
+  },
+  {
+    "name": "Richard Blumenthal",
+    "office": "Senator",
+    "state": "CT",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Blumenthal"
+  },
+  {
+    "name": "Chris Murphy",
+    "office": "Senator",
+    "state": "CT",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chris_Murphy"
+  },
+  {
+    "name": "Chris Coons",
+    "office": "Senator",
+    "state": "DE",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chris_Coons"
+  },
+  {
+    "name": "Lisa Blunt Rochester",
+    "office": "Senator",
+    "state": "DE",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lisa_Blunt_Rochester"
+  },
+  {
+    "name": "Rick Scott",
+    "office": "Senator",
+    "state": "FL",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rick_Scott"
+  },
+  {
+    "name": "Ashley Moody",
+    "office": "Senator",
+    "state": "FL",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ashley_Moody"
+  },
+  {
+    "name": "Jon Ossoff",
+    "office": "Senator",
+    "state": "GA",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jon_Ossoff"
+  },
+  {
+    "name": "Raphael Warnock",
+    "office": "Senator",
+    "state": "GA",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Raphael_Warnock"
+  },
+  {
+    "name": "Brian Schatz",
+    "office": "Senator",
+    "state": "HI",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brian_Schatz"
+  },
+  {
+    "name": "Mazie Hirono",
+    "office": "Senator",
+    "state": "HI",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mazie_Hirono"
+  },
+  {
+    "name": "Mike Crapo",
+    "office": "Senator",
+    "state": "ID",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Crapo"
+  },
+  {
+    "name": "Jim Risch",
+    "office": "Senator",
+    "state": "ID",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Risch"
+  },
+  {
+    "name": "Dick Durbin",
+    "office": "Senator",
+    "state": "IL",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dick_Durbin"
+  },
+  {
+    "name": "Tammy Duckworth",
+    "office": "Senator",
+    "state": "IL",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tammy_Duckworth"
+  },
+  {
+    "name": "Todd Young",
+    "office": "Senator",
+    "state": "IN",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Todd_Young"
+  },
+  {
+    "name": "Jim Banks",
+    "office": "Senator",
+    "state": "IN",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Banks"
+  },
+  {
+    "name": "Chuck Grassley",
+    "office": "Senator",
+    "state": "IA",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chuck_Grassley"
+  },
+  {
+    "name": "Joni Ernst",
+    "office": "Senator",
+    "state": "IA",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Joni_Ernst"
+  },
+  {
+    "name": "Jerry Moran",
+    "office": "Senator",
+    "state": "KS",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jerry_Moran"
+  },
+  {
+    "name": "Roger Marshall",
+    "office": "Senator",
+    "state": "KS",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Roger_Marshall"
+  },
+  {
+    "name": "Mitch McConnell",
+    "office": "Senator",
+    "state": "KY",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mitch_McConnell"
+  },
+  {
+    "name": "Rand Paul",
+    "office": "Senator",
+    "state": "KY",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rand_Paul"
+  },
+  {
+    "name": "Bill Cassidy",
+    "office": "Senator",
+    "state": "LA",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_Cassidy"
+  },
+  {
+    "name": "John Kennedy",
+    "office": "Senator",
+    "state": "LA",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Kennedy_(Louisiana_politician)"
+  },
+  {
+    "name": "Susan Collins",
+    "office": "Senator",
+    "state": "ME",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Susan_Collins"
+  },
+  {
+    "name": "Angus King",
+    "office": "Senator",
+    "state": "ME",
+    "city": null,
+    "district": null,
+    "party": "I",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Angus_King"
+  },
+  {
+    "name": "Chris Van Hollen",
+    "office": "Senator",
+    "state": "MD",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chris_Van_Hollen"
+  },
+  {
+    "name": "Angela Alsobrooks",
+    "office": "Senator",
+    "state": "MD",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Angela_Alsobrooks"
+  },
+  {
+    "name": "Elizabeth Warren",
+    "office": "Senator",
+    "state": "MA",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Elizabeth_Warren"
+  },
+  {
+    "name": "Ed Markey",
+    "office": "Senator",
+    "state": "MA",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ed_Markey"
+  },
+  {
+    "name": "Gary Peters",
+    "office": "Senator",
+    "state": "MI",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gary_Peters"
+  },
+  {
+    "name": "Elissa Slotkin",
+    "office": "Senator",
+    "state": "MI",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Elissa_Slotkin"
+  },
+  {
+    "name": "Amy Klobuchar",
+    "office": "Senator",
+    "state": "MN",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amy_Klobuchar"
+  },
+  {
+    "name": "Tina Smith",
+    "office": "Senator",
+    "state": "MN",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tina_Smith"
+  },
+  {
+    "name": "Roger Wicker",
+    "office": "Senator",
+    "state": "MS",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Roger_Wicker"
+  },
+  {
+    "name": "Cindy Hyde-Smith",
+    "office": "Senator",
+    "state": "MS",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cindy_Hyde-Smith"
+  },
+  {
+    "name": "Josh Hawley",
+    "office": "Senator",
+    "state": "MO",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Josh_Hawley"
+  },
+  {
+    "name": "Eric Schmitt",
+    "office": "Senator",
+    "state": "MO",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eric_Schmitt"
+  },
+  {
+    "name": "Steve Daines",
+    "office": "Senator",
+    "state": "MT",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Steve_Daines"
+  },
+  {
+    "name": "Tim Sheehy",
+    "office": "Senator",
+    "state": "MT",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Sheehy"
+  },
+  {
+    "name": "Deb Fischer",
+    "office": "Senator",
+    "state": "NE",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Deb_Fischer"
+  },
+  {
+    "name": "Pete Ricketts",
+    "office": "Senator",
+    "state": "NE",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pete_Ricketts"
+  },
+  {
+    "name": "Catherine Cortez Masto",
+    "office": "Senator",
+    "state": "NV",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Catherine_Cortez_Masto"
+  },
+  {
+    "name": "Jacky Rosen",
+    "office": "Senator",
+    "state": "NV",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jacky_Rosen"
+  },
+  {
+    "name": "Jeanne Shaheen",
+    "office": "Senator",
+    "state": "NH",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jeanne_Shaheen"
+  },
+  {
+    "name": "Maggie Hassan",
+    "office": "Senator",
+    "state": "NH",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maggie_Hassan"
+  },
+  {
+    "name": "Cory Booker",
+    "office": "Senator",
+    "state": "NJ",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cory_Booker"
+  },
+  {
+    "name": "Andy Kim",
+    "office": "Senator",
+    "state": "NJ",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Andy_Kim_(politician)"
+  },
+  {
+    "name": "Martin Heinrich",
+    "office": "Senator",
+    "state": "NM",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Heinrich"
+  },
+  {
+    "name": "Ben Ray Luj\u00e1n",
+    "office": "Senator",
+    "state": "NM",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ben_Ray_Luj%C3%A1n"
+  },
+  {
+    "name": "Chuck Schumer",
+    "office": "Senator",
+    "state": "NY",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chuck_Schumer"
+  },
+  {
+    "name": "Kirsten Gillibrand",
+    "office": "Senator",
+    "state": "NY",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kirsten_Gillibrand"
+  },
+  {
+    "name": "Thom Tillis",
+    "office": "Senator",
+    "state": "NC",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thom_Tillis"
+  },
+  {
+    "name": "Ted Budd",
+    "office": "Senator",
+    "state": "NC",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ted_Budd"
+  },
+  {
+    "name": "John Hoeven",
+    "office": "Senator",
+    "state": "ND",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Hoeven"
+  },
+  {
+    "name": "Kevin Cramer",
+    "office": "Senator",
+    "state": "ND",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_Cramer"
+  },
+  {
+    "name": "Bernie Moreno",
+    "office": "Senator",
+    "state": "OH",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bernie_Moreno"
+  },
+  {
+    "name": "Jon Husted",
+    "office": "Senator",
+    "state": "OH",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jon_Husted"
+  },
+  {
+    "name": "James Lankford",
+    "office": "Senator",
+    "state": "OK",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/James_Lankford"
+  },
+  {
+    "name": "Alan Armstrong",
+    "office": "Senator",
+    "state": "OK",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alan_S._Armstrong"
+  },
+  {
+    "name": "Ron Wyden",
+    "office": "Senator",
+    "state": "OR",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ron_Wyden"
+  },
+  {
+    "name": "Jeff Merkley",
+    "office": "Senator",
+    "state": "OR",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jeff_Merkley"
+  },
+  {
+    "name": "John Fetterman",
+    "office": "Senator",
+    "state": "PA",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Fetterman"
+  },
+  {
+    "name": "Dave McCormick",
+    "office": "Senator",
+    "state": "PA",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dave_McCormick"
+  },
+  {
+    "name": "Jack Reed",
+    "office": "Senator",
+    "state": "RI",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jack_Reed_(Rhode_Island_politician)"
+  },
+  {
+    "name": "Sheldon Whitehouse",
+    "office": "Senator",
+    "state": "RI",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sheldon_Whitehouse"
+  },
+  {
+    "name": "Lindsey Graham",
+    "office": "Senator",
+    "state": "SC",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lindsey_Graham"
+  },
+  {
+    "name": "Tim Scott",
+    "office": "Senator",
+    "state": "SC",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Scott"
+  },
+  {
+    "name": "John Thune",
+    "office": "Senator",
+    "state": "SD",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Thune"
+  },
+  {
+    "name": "Mike Rounds",
+    "office": "Senator",
+    "state": "SD",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Rounds"
+  },
+  {
+    "name": "Marsha Blackburn",
+    "office": "Senator",
+    "state": "TN",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Marsha_Blackburn"
+  },
+  {
+    "name": "Bill Hagerty",
+    "office": "Senator",
+    "state": "TN",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_Hagerty"
+  },
+  {
+    "name": "John Cornyn",
+    "office": "Senator",
+    "state": "TX",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Cornyn"
+  },
+  {
+    "name": "Ted Cruz",
+    "office": "Senator",
+    "state": "TX",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ted_Cruz"
+  },
+  {
+    "name": "Mike Lee",
+    "office": "Senator",
+    "state": "UT",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Lee"
+  },
+  {
+    "name": "John Curtis",
+    "office": "Senator",
+    "state": "UT",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Curtis"
+  },
+  {
+    "name": "Bernie Sanders",
+    "office": "Senator",
+    "state": "VT",
+    "city": null,
+    "district": null,
+    "party": "I",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bernie_Sanders"
+  },
+  {
+    "name": "Peter Welch",
+    "office": "Senator",
+    "state": "VT",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peter_Welch"
+  },
+  {
+    "name": "Mark Warner",
+    "office": "Senator",
+    "state": "VA",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Warner"
+  },
+  {
+    "name": "Tim Kaine",
+    "office": "Senator",
+    "state": "VA",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Kaine"
+  },
+  {
+    "name": "Patty Murray",
+    "office": "Senator",
+    "state": "WA",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Patty_Murray"
+  },
+  {
+    "name": "Maria Cantwell",
+    "office": "Senator",
+    "state": "WA",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maria_Cantwell"
+  },
+  {
+    "name": "Shelley Moore Capito",
+    "office": "Senator",
+    "state": "WV",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shelley_Moore_Capito"
+  },
+  {
+    "name": "Jim Justice",
+    "office": "Senator",
+    "state": "WV",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Justice"
+  },
+  {
+    "name": "Ron Johnson",
+    "office": "Senator",
+    "state": "WI",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ron_Johnson"
+  },
+  {
+    "name": "Tammy Baldwin",
+    "office": "Senator",
+    "state": "WI",
+    "city": null,
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tammy_Baldwin"
+  },
+  {
+    "name": "John Barrasso",
+    "office": "Senator",
+    "state": "WY",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Barrasso"
+  },
+  {
+    "name": "Cynthia Lummis",
+    "office": "Senator",
+    "state": "WY",
+    "city": null,
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cynthia_Lummis"
+  },
+  {
+    "name": "Barry Moore",
+    "office": "Representative",
+    "state": "AL",
+    "city": null,
+    "district": "AL-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Barry_Moore_(American_politician)"
+  },
+  {
+    "name": "Shomari Figures",
+    "office": "Representative",
+    "state": "AL",
+    "city": null,
+    "district": "AL-2",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shomari_Figures"
+  },
+  {
+    "name": "Mike Rogers",
+    "office": "Representative",
+    "state": "AL",
+    "city": null,
+    "district": "AL-3",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Rogers_(Alabama_politician)"
+  },
+  {
+    "name": "Robert Aderholt",
+    "office": "Representative",
+    "state": "AL",
+    "city": null,
+    "district": "AL-4",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Aderholt"
+  },
+  {
+    "name": "Dale Strong",
+    "office": "Representative",
+    "state": "AL",
+    "city": null,
+    "district": "AL-5",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dale_Strong"
+  },
+  {
+    "name": "Gary Palmer",
+    "office": "Representative",
+    "state": "AL",
+    "city": null,
+    "district": "AL-6",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gary_Palmer_(politician)"
+  },
+  {
+    "name": "Terri Sewell",
+    "office": "Representative",
+    "state": "AL",
+    "city": null,
+    "district": "AL-7",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Terri_Sewell"
+  },
+  {
+    "name": "Nick Begich III",
+    "office": "Representative",
+    "state": "AK",
+    "city": null,
+    "district": "AK-AL",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nick_Begich_III"
+  },
+  {
+    "name": "David Schweikert",
+    "office": "Representative",
+    "state": "AZ",
+    "city": null,
+    "district": "AZ-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/David_Schweikert"
+  },
+  {
+    "name": "Eli Crane",
+    "office": "Representative",
+    "state": "AZ",
+    "city": null,
+    "district": "AZ-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eli_Crane"
+  },
+  {
+    "name": "Yassamin Ansari",
+    "office": "Representative",
+    "state": "AZ",
+    "city": null,
+    "district": "AZ-3",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yassamin_Ansari"
+  },
+  {
+    "name": "Greg Stanton",
+    "office": "Representative",
+    "state": "AZ",
+    "city": null,
+    "district": "AZ-4",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Greg_Stanton"
+  },
+  {
+    "name": "Andy Biggs",
+    "office": "Representative",
+    "state": "AZ",
+    "city": null,
+    "district": "AZ-5",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Andy_Biggs"
+  },
+  {
+    "name": "Juan Ciscomani",
+    "office": "Representative",
+    "state": "AZ",
+    "city": null,
+    "district": "AZ-6",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Ciscomani"
+  },
+  {
+    "name": "Adelita Grijalva",
+    "office": "Representative",
+    "state": "AZ",
+    "city": null,
+    "district": "AZ-7",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Adelita_Grijalva"
+  },
+  {
+    "name": "Abraham Hamadeh",
+    "office": "Representative",
+    "state": "AZ",
+    "city": null,
+    "district": "AZ-8",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Abraham_Hamadeh"
+  },
+  {
+    "name": "Paul Gosar",
+    "office": "Representative",
+    "state": "AZ",
+    "city": null,
+    "district": "AZ-9",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Gosar"
+  },
+  {
+    "name": "Rick Crawford",
+    "office": "Representative",
+    "state": "AR",
+    "city": null,
+    "district": "AR-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rick_Crawford_(politician)"
+  },
+  {
+    "name": "French Hill",
+    "office": "Representative",
+    "state": "AR",
+    "city": null,
+    "district": "AR-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/French_Hill_(politician)"
+  },
+  {
+    "name": "Steve Womack",
+    "office": "Representative",
+    "state": "AR",
+    "city": null,
+    "district": "AR-3",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Steve_Womack"
+  },
+  {
+    "name": "Bruce Westerman",
+    "office": "Representative",
+    "state": "AR",
+    "city": null,
+    "district": "AR-4",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bruce_Westerman"
+  },
+  {
+    "name": "Jared Huffman",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-2",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jared_Huffman"
+  },
+  {
+    "name": "Kevin Kiley",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-3",
+    "party": "I",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_Kiley_(politician)"
+  },
+  {
+    "name": "Mike Thompson",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-4",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Thompson"
+  },
+  {
+    "name": "Tom McClintock",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-5",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tom_McClintock"
+  },
+  {
+    "name": "Ami Bera",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-6",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ami_Bera"
+  },
+  {
+    "name": "Doris Matsui",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-7",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Doris_Matsui"
+  },
+  {
+    "name": "John Garamendi",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-8",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Garamendi"
+  },
+  {
+    "name": "Josh Harder",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-9",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Josh_Harder"
+  },
+  {
+    "name": "Mark DeSaulnier",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-10",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_DeSaulnier"
+  },
+  {
+    "name": "Nancy Pelosi",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-11",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nancy_Pelosi"
+  },
+  {
+    "name": "Lateefah Simon",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-12",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lateefah_Simon"
+  },
+  {
+    "name": "Adam Gray",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-13",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Adam_Gray"
+  },
+  {
+    "name": "Kevin Mullin",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-15",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_Mullin"
+  },
+  {
+    "name": "Sam Liccardo",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-16",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sam_Liccardo"
+  },
+  {
+    "name": "Ro Khanna",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-17",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ro_Khanna"
+  },
+  {
+    "name": "Zoe Lofgren",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-18",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zoe_Lofgren"
+  },
+  {
+    "name": "Jimmy Panetta",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-19",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jimmy_Panetta"
+  },
+  {
+    "name": "Vince Fong",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-20",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vince_Fong"
+  },
+  {
+    "name": "Jim Costa",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-21",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Costa"
+  },
+  {
+    "name": "David Valadao",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-22",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/David_Valadao"
+  },
+  {
+    "name": "Jay Obernolte",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-23",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jay_Obernolte"
+  },
+  {
+    "name": "Salud Carbajal",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-24",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Salud_Carbajal"
+  },
+  {
+    "name": "Raul Ruiz",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-25",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Raul_Ruiz_(politician)"
+  },
+  {
+    "name": "Julia Brownley",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-26",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Julia_Brownley"
+  },
+  {
+    "name": "George Whitesides",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-27",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/George_T._Whitesides"
+  },
+  {
+    "name": "Judy Chu",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-28",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Judy_Chu"
+  },
+  {
+    "name": "Luz Rivas",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-29",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Luz_Rivas"
+  },
+  {
+    "name": "Laura Friedman",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-30",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Laura_Friedman"
+  },
+  {
+    "name": "Gil Cisneros",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-31",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gil_Cisneros"
+  },
+  {
+    "name": "Brad Sherman",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-32",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brad_Sherman"
+  },
+  {
+    "name": "Pete Aguilar",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-33",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pete_Aguilar"
+  },
+  {
+    "name": "Jimmy Gomez",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-34",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jimmy_Gomez"
+  },
+  {
+    "name": "Norma Torres",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-35",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Norma_Torres"
+  },
+  {
+    "name": "Ted Lieu",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-36",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ted_Lieu"
+  },
+  {
+    "name": "Sydney Kamlager-Dove",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-37",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sydney_Kamlager-Dove"
+  },
+  {
+    "name": "Linda S\u00e1nchez",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-38",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Linda_S%C3%A1nchez"
+  },
+  {
+    "name": "Mark Takano",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-39",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Takano"
+  },
+  {
+    "name": "Young Kim",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-40",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Young_Kim"
+  },
+  {
+    "name": "Ken Calvert",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-41",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ken_Calvert"
+  },
+  {
+    "name": "Robert Garcia",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-42",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Garcia_(California_politician)"
+  },
+  {
+    "name": "Maxine Waters",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-43",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maxine_Waters"
+  },
+  {
+    "name": "Nanette Barrag\u00e1n",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-44",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nanette_Barrag%C3%A1n"
+  },
+  {
+    "name": "Derek Tran",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-45",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Derek_Tran"
+  },
+  {
+    "name": "Lou Correa",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-46",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lou_Correa"
+  },
+  {
+    "name": "Dave Min",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-47",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dave_Min"
+  },
+  {
+    "name": "Darrell Issa",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-48",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Darrell_Issa"
+  },
+  {
+    "name": "Mike Levin",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-49",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Levin"
+  },
+  {
+    "name": "Scott Peters",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-50",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scott_Peters_(politician)"
+  },
+  {
+    "name": "Sara Jacobs",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-51",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sara_Jacobs"
+  },
+  {
+    "name": "Juan Vargas",
+    "office": "Representative",
+    "state": "CA",
+    "city": null,
+    "district": "CA-52",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Vargas"
+  },
+  {
+    "name": "Diana DeGette",
+    "office": "Representative",
+    "state": "CO",
+    "city": null,
+    "district": "CO-1",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Diana_DeGette"
+  },
+  {
+    "name": "Joe Neguse",
+    "office": "Representative",
+    "state": "CO",
+    "city": null,
+    "district": "CO-2",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Joe_Neguse"
+  },
+  {
+    "name": "Jeff Hurd",
+    "office": "Representative",
+    "state": "CO",
+    "city": null,
+    "district": "CO-3",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jeff_Hurd_(politician)"
+  },
+  {
+    "name": "Lauren Boebert",
+    "office": "Representative",
+    "state": "CO",
+    "city": null,
+    "district": "CO-4",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lauren_Boebert"
+  },
+  {
+    "name": "Jeff Crank",
+    "office": "Representative",
+    "state": "CO",
+    "city": null,
+    "district": "CO-5",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jeff_Crank"
+  },
+  {
+    "name": "Jason Crow",
+    "office": "Representative",
+    "state": "CO",
+    "city": null,
+    "district": "CO-6",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jason_Crow"
+  },
+  {
+    "name": "Brittany Pettersen",
+    "office": "Representative",
+    "state": "CO",
+    "city": null,
+    "district": "CO-7",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brittany_Pettersen"
+  },
+  {
+    "name": "Gabe Evans",
+    "office": "Representative",
+    "state": "CO",
+    "city": null,
+    "district": "CO-8",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gabe_Evans"
+  },
+  {
+    "name": "John B. Larson",
+    "office": "Representative",
+    "state": "CT",
+    "city": null,
+    "district": "CT-1",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_B._Larson"
+  },
+  {
+    "name": "Joe Courtney",
+    "office": "Representative",
+    "state": "CT",
+    "city": null,
+    "district": "CT-2",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Joe_Courtney_(politician)"
+  },
+  {
+    "name": "Rosa DeLauro",
+    "office": "Representative",
+    "state": "CT",
+    "city": null,
+    "district": "CT-3",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rosa_DeLauro"
+  },
+  {
+    "name": "Jim Himes",
+    "office": "Representative",
+    "state": "CT",
+    "city": null,
+    "district": "CT-4",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Himes"
+  },
+  {
+    "name": "Jahana Hayes",
+    "office": "Representative",
+    "state": "CT",
+    "city": null,
+    "district": "CT-5",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jahana_Hayes"
+  },
+  {
+    "name": "Sarah McBride",
+    "office": "Representative",
+    "state": "DE",
+    "city": null,
+    "district": "DE-AL",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sarah_McBride"
+  },
+  {
+    "name": "Jimmy Patronis",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jimmy_Patronis"
+  },
+  {
+    "name": "Neal Dunn",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Neal_Dunn"
+  },
+  {
+    "name": "Kat Cammack",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-3",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kat_Cammack"
+  },
+  {
+    "name": "Aaron Bean",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-4",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aaron_Bean"
+  },
+  {
+    "name": "John Rutherford",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-5",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Rutherford_(Florida_politician)"
+  },
+  {
+    "name": "Randy Fine",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-6",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Randy_Fine"
+  },
+  {
+    "name": "Cory Mills",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-7",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cory_Mills"
+  },
+  {
+    "name": "Mike Haridopolos",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-8",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Haridopolos"
+  },
+  {
+    "name": "Darren Soto",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-9",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Darren_Soto"
+  },
+  {
+    "name": "Maxwell Frost",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-10",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maxwell_Frost"
+  },
+  {
+    "name": "Daniel Webster",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-11",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Daniel_Webster_(Florida_politician)"
+  },
+  {
+    "name": "Gus Bilirakis",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-12",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gus_Bilirakis"
+  },
+  {
+    "name": "Anna Paulina Luna",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-13",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Anna_Paulina_Luna"
+  },
+  {
+    "name": "Kathy Castor",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-14",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kathy_Castor"
+  },
+  {
+    "name": "Laurel Lee",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-15",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Laurel_Lee"
+  },
+  {
+    "name": "Vern Buchanan",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-16",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vern_Buchanan"
+  },
+  {
+    "name": "Greg Steube",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-17",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Greg_Steube"
+  },
+  {
+    "name": "Scott Franklin",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-18",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scott_Franklin_(politician)"
+  },
+  {
+    "name": "Byron Donalds",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-19",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Byron_Donalds"
+  },
+  {
+    "name": "Brian Mast",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-21",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brian_Mast"
+  },
+  {
+    "name": "Lois Frankel",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-22",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lois_Frankel"
+  },
+  {
+    "name": "Jared Moskowitz",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-23",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jared_Moskowitz"
+  },
+  {
+    "name": "Frederica Wilson",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-24",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Frederica_Wilson"
+  },
+  {
+    "name": "Debbie Wasserman Schultz",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-25",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Debbie_Wasserman_Schultz"
+  },
+  {
+    "name": "Mario D\u00edaz-Balart",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-26",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mario_D%C3%ADaz-Balart"
+  },
+  {
+    "name": "Mar\u00eda Elvira Salazar",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-27",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Elvira_Salazar"
+  },
+  {
+    "name": "Carlos Gim\u00e9nez",
+    "office": "Representative",
+    "state": "FL",
+    "city": null,
+    "district": "FL-28",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_A._Gim%C3%A9nez"
+  },
+  {
+    "name": "Buddy Carter",
+    "office": "Representative",
+    "state": "GA",
+    "city": null,
+    "district": "GA-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Buddy_Carter"
+  },
+  {
+    "name": "Sanford Bishop",
+    "office": "Representative",
+    "state": "GA",
+    "city": null,
+    "district": "GA-2",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sanford_Bishop"
+  },
+  {
+    "name": "Brian Jack",
+    "office": "Representative",
+    "state": "GA",
+    "city": null,
+    "district": "GA-3",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brian_Jack"
+  },
+  {
+    "name": "Hank Johnson",
+    "office": "Representative",
+    "state": "GA",
+    "city": null,
+    "district": "GA-4",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hank_Johnson"
+  },
+  {
+    "name": "Nikema Williams",
+    "office": "Representative",
+    "state": "GA",
+    "city": null,
+    "district": "GA-5",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nikema_Williams"
+  },
+  {
+    "name": "Lucy McBath",
+    "office": "Representative",
+    "state": "GA",
+    "city": null,
+    "district": "GA-6",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lucy_McBath"
+  },
+  {
+    "name": "Rich McCormick",
+    "office": "Representative",
+    "state": "GA",
+    "city": null,
+    "district": "GA-7",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rich_McCormick"
+  },
+  {
+    "name": "Austin Scott",
+    "office": "Representative",
+    "state": "GA",
+    "city": null,
+    "district": "GA-8",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Austin_Scott_(politician)"
+  },
+  {
+    "name": "Andrew Clyde",
+    "office": "Representative",
+    "state": "GA",
+    "city": null,
+    "district": "GA-9",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Andrew_Clyde"
+  },
+  {
+    "name": "Mike Collins",
+    "office": "Representative",
+    "state": "GA",
+    "city": null,
+    "district": "GA-10",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Collins_(politician)"
+  },
+  {
+    "name": "Barry Loudermilk",
+    "office": "Representative",
+    "state": "GA",
+    "city": null,
+    "district": "GA-11",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Barry_Loudermilk"
+  },
+  {
+    "name": "Rick Allen",
+    "office": "Representative",
+    "state": "GA",
+    "city": null,
+    "district": "GA-12",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rick_Allen_(politician)"
+  },
+  {
+    "name": "Clay Fuller",
+    "office": "Representative",
+    "state": "GA",
+    "city": null,
+    "district": "GA-14",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Clay_Fuller"
+  },
+  {
+    "name": "Ed Case",
+    "office": "Representative",
+    "state": "HI",
+    "city": null,
+    "district": "HI-1",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ed_Case"
+  },
+  {
+    "name": "Jill Tokuda",
+    "office": "Representative",
+    "state": "HI",
+    "city": null,
+    "district": "HI-2",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jill_Tokuda"
+  },
+  {
+    "name": "Russ Fulcher",
+    "office": "Representative",
+    "state": "ID",
+    "city": null,
+    "district": "ID-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Russ_Fulcher"
+  },
+  {
+    "name": "Mike Simpson",
+    "office": "Representative",
+    "state": "ID",
+    "city": null,
+    "district": "ID-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Simpson"
+  },
+  {
+    "name": "Jonathan Jackson",
+    "office": "Representative",
+    "state": "IL",
+    "city": null,
+    "district": "IL-1",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jonathan_Jackson_(Illinois_politician)"
+  },
+  {
+    "name": "Robin Kelly",
+    "office": "Representative",
+    "state": "IL",
+    "city": null,
+    "district": "IL-2",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Robin_Kelly"
+  },
+  {
+    "name": "Delia Ramirez",
+    "office": "Representative",
+    "state": "IL",
+    "city": null,
+    "district": "IL-3",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Delia_Ramirez"
+  },
+  {
+    "name": "Chuy Garc\u00eda",
+    "office": "Representative",
+    "state": "IL",
+    "city": null,
+    "district": "IL-4",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chuy_Garc%C3%ADa"
+  },
+  {
+    "name": "Mike Quigley",
+    "office": "Representative",
+    "state": "IL",
+    "city": null,
+    "district": "IL-5",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Quigley"
+  },
+  {
+    "name": "Sean Casten",
+    "office": "Representative",
+    "state": "IL",
+    "city": null,
+    "district": "IL-6",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sean_Casten"
+  },
+  {
+    "name": "Danny Davis",
+    "office": "Representative",
+    "state": "IL",
+    "city": null,
+    "district": "IL-7",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Danny_Davis_(Illinois_politician)"
+  },
+  {
+    "name": "Raja Krishnamoorthi",
+    "office": "Representative",
+    "state": "IL",
+    "city": null,
+    "district": "IL-8",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Raja_Krishnamoorthi"
+  },
+  {
+    "name": "Jan Schakowsky",
+    "office": "Representative",
+    "state": "IL",
+    "city": null,
+    "district": "IL-9",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jan_Schakowsky"
+  },
+  {
+    "name": "Brad Schneider",
+    "office": "Representative",
+    "state": "IL",
+    "city": null,
+    "district": "IL-10",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brad_Schneider"
+  },
+  {
+    "name": "Bill Foster",
+    "office": "Representative",
+    "state": "IL",
+    "city": null,
+    "district": "IL-11",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_Foster_(politician)"
+  },
+  {
+    "name": "Mike Bost",
+    "office": "Representative",
+    "state": "IL",
+    "city": null,
+    "district": "IL-12",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Bost"
+  },
+  {
+    "name": "Nikki Budzinski",
+    "office": "Representative",
+    "state": "IL",
+    "city": null,
+    "district": "IL-13",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nikki_Budzinski"
+  },
+  {
+    "name": "Lauren Underwood",
+    "office": "Representative",
+    "state": "IL",
+    "city": null,
+    "district": "IL-14",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lauren_Underwood"
+  },
+  {
+    "name": "Mary Miller",
+    "office": "Representative",
+    "state": "IL",
+    "city": null,
+    "district": "IL-15",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mary_Miller_(politician)"
+  },
+  {
+    "name": "Darin LaHood",
+    "office": "Representative",
+    "state": "IL",
+    "city": null,
+    "district": "IL-16",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Darin_LaHood"
+  },
+  {
+    "name": "Eric Sorensen",
+    "office": "Representative",
+    "state": "IL",
+    "city": null,
+    "district": "IL-17",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eric_Sorensen_(politician)"
+  },
+  {
+    "name": "Frank J. Mrvan",
+    "office": "Representative",
+    "state": "IN",
+    "city": null,
+    "district": "IN-1",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Frank_J._Mrvan"
+  },
+  {
+    "name": "Rudy Yakym",
+    "office": "Representative",
+    "state": "IN",
+    "city": null,
+    "district": "IN-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rudy_Yakym"
+  },
+  {
+    "name": "Marlin Stutzman",
+    "office": "Representative",
+    "state": "IN",
+    "city": null,
+    "district": "IN-3",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Marlin_Stutzman"
+  },
+  {
+    "name": "Jim Baird",
+    "office": "Representative",
+    "state": "IN",
+    "city": null,
+    "district": "IN-4",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Baird_(American_politician)"
+  },
+  {
+    "name": "Victoria Spartz",
+    "office": "Representative",
+    "state": "IN",
+    "city": null,
+    "district": "IN-5",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Victoria_Spartz"
+  },
+  {
+    "name": "Jefferson Shreve",
+    "office": "Representative",
+    "state": "IN",
+    "city": null,
+    "district": "IN-6",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jefferson_Shreve"
+  },
+  {
+    "name": "Andr\u00e9 Carson",
+    "office": "Representative",
+    "state": "IN",
+    "city": null,
+    "district": "IN-7",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Andr%C3%A9_Carson"
+  },
+  {
+    "name": "Mark Messmer",
+    "office": "Representative",
+    "state": "IN",
+    "city": null,
+    "district": "IN-8",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Messmer"
+  },
+  {
+    "name": "Erin Houchin",
+    "office": "Representative",
+    "state": "IN",
+    "city": null,
+    "district": "IN-9",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Erin_Houchin"
+  },
+  {
+    "name": "Mariannette Miller-Meeks",
+    "office": "Representative",
+    "state": "IA",
+    "city": null,
+    "district": "IA-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mariannette_Miller-Meeks"
+  },
+  {
+    "name": "Ashley Hinson",
+    "office": "Representative",
+    "state": "IA",
+    "city": null,
+    "district": "IA-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ashley_Hinson"
+  },
+  {
+    "name": "Zach Nunn",
+    "office": "Representative",
+    "state": "IA",
+    "city": null,
+    "district": "IA-3",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zach_Nunn"
+  },
+  {
+    "name": "Randy Feenstra",
+    "office": "Representative",
+    "state": "IA",
+    "city": null,
+    "district": "IA-4",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Randy_Feenstra"
+  },
+  {
+    "name": "Tracey Mann",
+    "office": "Representative",
+    "state": "KS",
+    "city": null,
+    "district": "KS-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tracey_Mann"
+  },
+  {
+    "name": "Derek Schmidt",
+    "office": "Representative",
+    "state": "KS",
+    "city": null,
+    "district": "KS-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Derek_Schmidt"
+  },
+  {
+    "name": "Sharice Davids",
+    "office": "Representative",
+    "state": "KS",
+    "city": null,
+    "district": "KS-3",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sharice_Davids"
+  },
+  {
+    "name": "Ron Estes",
+    "office": "Representative",
+    "state": "KS",
+    "city": null,
+    "district": "KS-4",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ron_Estes"
+  },
+  {
+    "name": "James Comer",
+    "office": "Representative",
+    "state": "KY",
+    "city": null,
+    "district": "KY-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/James_Comer"
+  },
+  {
+    "name": "Brett Guthrie",
+    "office": "Representative",
+    "state": "KY",
+    "city": null,
+    "district": "KY-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brett_Guthrie"
+  },
+  {
+    "name": "Morgan McGarvey",
+    "office": "Representative",
+    "state": "KY",
+    "city": null,
+    "district": "KY-3",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Morgan_McGarvey"
+  },
+  {
+    "name": "Thomas Massie",
+    "office": "Representative",
+    "state": "KY",
+    "city": null,
+    "district": "KY-4",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Massie"
+  },
+  {
+    "name": "Hal Rogers",
+    "office": "Representative",
+    "state": "KY",
+    "city": null,
+    "district": "KY-5",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hal_Rogers"
+  },
+  {
+    "name": "Andy Barr",
+    "office": "Representative",
+    "state": "KY",
+    "city": null,
+    "district": "KY-6",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Andy_Barr"
+  },
+  {
+    "name": "Steve Scalise",
+    "office": "Representative",
+    "state": "LA",
+    "city": null,
+    "district": "LA-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Steve_Scalise"
+  },
+  {
+    "name": "Troy Carter",
+    "office": "Representative",
+    "state": "LA",
+    "city": null,
+    "district": "LA-2",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Troy_Carter_(politician)"
+  },
+  {
+    "name": "Clay Higgins",
+    "office": "Representative",
+    "state": "LA",
+    "city": null,
+    "district": "LA-3",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Clay_Higgins"
+  },
+  {
+    "name": "Mike Johnson",
+    "office": "Representative",
+    "state": "LA",
+    "city": null,
+    "district": "LA-4",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Johnson"
+  },
+  {
+    "name": "Julia Letlow",
+    "office": "Representative",
+    "state": "LA",
+    "city": null,
+    "district": "LA-5",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Julia_Letlow"
+  },
+  {
+    "name": "Cleo Fields",
+    "office": "Representative",
+    "state": "LA",
+    "city": null,
+    "district": "LA-6",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cleo_Fields"
+  },
+  {
+    "name": "Chellie Pingree",
+    "office": "Representative",
+    "state": "ME",
+    "city": null,
+    "district": "ME-1",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chellie_Pingree"
+  },
+  {
+    "name": "Jared Golden",
+    "office": "Representative",
+    "state": "ME",
+    "city": null,
+    "district": "ME-2",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jared_Golden"
+  },
+  {
+    "name": "Andy Harris",
+    "office": "Representative",
+    "state": "MD",
+    "city": null,
+    "district": "MD-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Andy_Harris_(politician)"
+  },
+  {
+    "name": "Johnny Olszewski",
+    "office": "Representative",
+    "state": "MD",
+    "city": null,
+    "district": "MD-2",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Johnny_Olszewski"
+  },
+  {
+    "name": "Sarah Elfreth",
+    "office": "Representative",
+    "state": "MD",
+    "city": null,
+    "district": "MD-3",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sarah_Elfreth"
+  },
+  {
+    "name": "Glenn Ivey",
+    "office": "Representative",
+    "state": "MD",
+    "city": null,
+    "district": "MD-4",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Glenn_Ivey"
+  },
+  {
+    "name": "Steny Hoyer",
+    "office": "Representative",
+    "state": "MD",
+    "city": null,
+    "district": "MD-5",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Steny_Hoyer"
+  },
+  {
+    "name": "April McClain Delaney",
+    "office": "Representative",
+    "state": "MD",
+    "city": null,
+    "district": "MD-6",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/April_McClain_Delaney"
+  },
+  {
+    "name": "Kweisi Mfume",
+    "office": "Representative",
+    "state": "MD",
+    "city": null,
+    "district": "MD-7",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kweisi_Mfume"
+  },
+  {
+    "name": "Jamie Raskin",
+    "office": "Representative",
+    "state": "MD",
+    "city": null,
+    "district": "MD-8",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jamie_Raskin"
+  },
+  {
+    "name": "Richard Neal",
+    "office": "Representative",
+    "state": "MA",
+    "city": null,
+    "district": "MA-1",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Neal"
+  },
+  {
+    "name": "Jim McGovern",
+    "office": "Representative",
+    "state": "MA",
+    "city": null,
+    "district": "MA-2",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_McGovern_(American_politician)"
+  },
+  {
+    "name": "Lori Trahan",
+    "office": "Representative",
+    "state": "MA",
+    "city": null,
+    "district": "MA-3",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lori_Trahan"
+  },
+  {
+    "name": "Jake Auchincloss",
+    "office": "Representative",
+    "state": "MA",
+    "city": null,
+    "district": "MA-4",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jake_Auchincloss"
+  },
+  {
+    "name": "Katherine Clark",
+    "office": "Representative",
+    "state": "MA",
+    "city": null,
+    "district": "MA-5",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Katherine_Clark"
+  },
+  {
+    "name": "Seth Moulton",
+    "office": "Representative",
+    "state": "MA",
+    "city": null,
+    "district": "MA-6",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Seth_Moulton"
+  },
+  {
+    "name": "Ayanna Pressley",
+    "office": "Representative",
+    "state": "MA",
+    "city": null,
+    "district": "MA-7",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ayanna_Pressley"
+  },
+  {
+    "name": "Stephen Lynch",
+    "office": "Representative",
+    "state": "MA",
+    "city": null,
+    "district": "MA-8",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stephen_Lynch_(politician)"
+  },
+  {
+    "name": "Bill Keating",
+    "office": "Representative",
+    "state": "MA",
+    "city": null,
+    "district": "MA-9",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_Keating"
+  },
+  {
+    "name": "Jack Bergman",
+    "office": "Representative",
+    "state": "MI",
+    "city": null,
+    "district": "MI-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jack_Bergman"
+  },
+  {
+    "name": "John Moolenaar",
+    "office": "Representative",
+    "state": "MI",
+    "city": null,
+    "district": "MI-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Moolenaar"
+  },
+  {
+    "name": "Hillary Scholten",
+    "office": "Representative",
+    "state": "MI",
+    "city": null,
+    "district": "MI-3",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hillary_Scholten"
+  },
+  {
+    "name": "Bill Huizenga",
+    "office": "Representative",
+    "state": "MI",
+    "city": null,
+    "district": "MI-4",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_Huizenga"
+  },
+  {
+    "name": "Tim Walberg",
+    "office": "Representative",
+    "state": "MI",
+    "city": null,
+    "district": "MI-5",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Walberg"
+  },
+  {
+    "name": "Debbie Dingell",
+    "office": "Representative",
+    "state": "MI",
+    "city": null,
+    "district": "MI-6",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Debbie_Dingell"
+  },
+  {
+    "name": "Tom Barrett",
+    "office": "Representative",
+    "state": "MI",
+    "city": null,
+    "district": "MI-7",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tom_Barrett_(Michigan_politician)"
+  },
+  {
+    "name": "Kristen McDonald Rivet",
+    "office": "Representative",
+    "state": "MI",
+    "city": null,
+    "district": "MI-8",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kristen_McDonald_Rivet"
+  },
+  {
+    "name": "Lisa McClain",
+    "office": "Representative",
+    "state": "MI",
+    "city": null,
+    "district": "MI-9",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lisa_McClain"
+  },
+  {
+    "name": "John James",
+    "office": "Representative",
+    "state": "MI",
+    "city": null,
+    "district": "MI-10",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_James_(Michigan_politician)"
+  },
+  {
+    "name": "Haley Stevens",
+    "office": "Representative",
+    "state": "MI",
+    "city": null,
+    "district": "MI-11",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Haley_Stevens"
+  },
+  {
+    "name": "Rashida Tlaib",
+    "office": "Representative",
+    "state": "MI",
+    "city": null,
+    "district": "MI-12",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rashida_Tlaib"
+  },
+  {
+    "name": "Shri Thanedar",
+    "office": "Representative",
+    "state": "MI",
+    "city": null,
+    "district": "MI-13",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shri_Thanedar"
+  },
+  {
+    "name": "Brad Finstad",
+    "office": "Representative",
+    "state": "MN",
+    "city": null,
+    "district": "MN-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brad_Finstad"
+  },
+  {
+    "name": "Angie Craig",
+    "office": "Representative",
+    "state": "MN",
+    "city": null,
+    "district": "MN-2",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Angie_Craig"
+  },
+  {
+    "name": "Kelly Morrison",
+    "office": "Representative",
+    "state": "MN",
+    "city": null,
+    "district": "MN-3",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kelly_Morrison"
+  },
+  {
+    "name": "Betty McCollum",
+    "office": "Representative",
+    "state": "MN",
+    "city": null,
+    "district": "MN-4",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Betty_McCollum"
+  },
+  {
+    "name": "Ilhan Omar",
+    "office": "Representative",
+    "state": "MN",
+    "city": null,
+    "district": "MN-5",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ilhan_Omar"
+  },
+  {
+    "name": "Tom Emmer",
+    "office": "Representative",
+    "state": "MN",
+    "city": null,
+    "district": "MN-6",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tom_Emmer"
+  },
+  {
+    "name": "Michelle Fischbach",
+    "office": "Representative",
+    "state": "MN",
+    "city": null,
+    "district": "MN-7",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Michelle_Fischbach"
+  },
+  {
+    "name": "Pete Stauber",
+    "office": "Representative",
+    "state": "MN",
+    "city": null,
+    "district": "MN-8",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pete_Stauber"
+  },
+  {
+    "name": "Trent Kelly",
+    "office": "Representative",
+    "state": "MS",
+    "city": null,
+    "district": "MS-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Trent_Kelly"
+  },
+  {
+    "name": "Bennie Thompson",
+    "office": "Representative",
+    "state": "MS",
+    "city": null,
+    "district": "MS-2",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bennie_Thompson"
+  },
+  {
+    "name": "Michael Guest",
+    "office": "Representative",
+    "state": "MS",
+    "city": null,
+    "district": "MS-3",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Guest_(politician)"
+  },
+  {
+    "name": "Mike Ezell",
+    "office": "Representative",
+    "state": "MS",
+    "city": null,
+    "district": "MS-4",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Ezell"
+  },
+  {
+    "name": "Wesley Bell",
+    "office": "Representative",
+    "state": "MO",
+    "city": null,
+    "district": "MO-1",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wesley_Bell"
+  },
+  {
+    "name": "Ann Wagner",
+    "office": "Representative",
+    "state": "MO",
+    "city": null,
+    "district": "MO-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ann_Wagner"
+  },
+  {
+    "name": "Bob Onder",
+    "office": "Representative",
+    "state": "MO",
+    "city": null,
+    "district": "MO-3",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bob_Onder"
+  },
+  {
+    "name": "Mark Alford",
+    "office": "Representative",
+    "state": "MO",
+    "city": null,
+    "district": "MO-4",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Alford_(politician)"
+  },
+  {
+    "name": "Emanuel Cleaver",
+    "office": "Representative",
+    "state": "MO",
+    "city": null,
+    "district": "MO-5",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Emanuel_Cleaver"
+  },
+  {
+    "name": "Sam Graves",
+    "office": "Representative",
+    "state": "MO",
+    "city": null,
+    "district": "MO-6",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sam_Graves"
+  },
+  {
+    "name": "Eric Burlison",
+    "office": "Representative",
+    "state": "MO",
+    "city": null,
+    "district": "MO-7",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eric_Burlison"
+  },
+  {
+    "name": "Jason Smith",
+    "office": "Representative",
+    "state": "MO",
+    "city": null,
+    "district": "MO-8",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jason_Smith_(American_politician)"
+  },
+  {
+    "name": "Ryan Zinke",
+    "office": "Representative",
+    "state": "MT",
+    "city": null,
+    "district": "MT-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ryan_Zinke"
+  },
+  {
+    "name": "Troy Downing",
+    "office": "Representative",
+    "state": "MT",
+    "city": null,
+    "district": "MT-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Troy_Downing"
+  },
+  {
+    "name": "Mike Flood",
+    "office": "Representative",
+    "state": "NE",
+    "city": null,
+    "district": "NE-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Flood_(politician)"
+  },
+  {
+    "name": "Don Bacon",
+    "office": "Representative",
+    "state": "NE",
+    "city": null,
+    "district": "NE-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Don_Bacon"
+  },
+  {
+    "name": "Adrian Smith",
+    "office": "Representative",
+    "state": "NE",
+    "city": null,
+    "district": "NE-3",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Adrian_Smith_(politician)"
+  },
+  {
+    "name": "Dina Titus",
+    "office": "Representative",
+    "state": "NV",
+    "city": null,
+    "district": "NV-1",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dina_Titus"
+  },
+  {
+    "name": "Mark Amodei",
+    "office": "Representative",
+    "state": "NV",
+    "city": null,
+    "district": "NV-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Amodei"
+  },
+  {
+    "name": "Susie Lee",
+    "office": "Representative",
+    "state": "NV",
+    "city": null,
+    "district": "NV-3",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Susie_Lee"
+  },
+  {
+    "name": "Steven Horsford",
+    "office": "Representative",
+    "state": "NV",
+    "city": null,
+    "district": "NV-4",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Steven_Horsford"
+  },
+  {
+    "name": "Chris Pappas",
+    "office": "Representative",
+    "state": "NH",
+    "city": null,
+    "district": "NH-1",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chris_Pappas_(American_politician)"
+  },
+  {
+    "name": "Maggie Goodlander",
+    "office": "Representative",
+    "state": "NH",
+    "city": null,
+    "district": "NH-2",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maggie_Goodlander"
+  },
+  {
+    "name": "Donald Norcross",
+    "office": "Representative",
+    "state": "NJ",
+    "city": null,
+    "district": "NJ-1",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Donald_Norcross"
+  },
+  {
+    "name": "Jeff Van Drew",
+    "office": "Representative",
+    "state": "NJ",
+    "city": null,
+    "district": "NJ-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jeff_Van_Drew"
+  },
+  {
+    "name": "Herb Conaway",
+    "office": "Representative",
+    "state": "NJ",
+    "city": null,
+    "district": "NJ-3",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Herb_Conaway"
+  },
+  {
+    "name": "Chris Smith",
+    "office": "Representative",
+    "state": "NJ",
+    "city": null,
+    "district": "NJ-4",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chris_Smith_(New_Jersey_politician)"
+  },
+  {
+    "name": "Josh Gottheimer",
+    "office": "Representative",
+    "state": "NJ",
+    "city": null,
+    "district": "NJ-5",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Josh_Gottheimer"
+  },
+  {
+    "name": "Frank Pallone",
+    "office": "Representative",
+    "state": "NJ",
+    "city": null,
+    "district": "NJ-6",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Frank_Pallone"
+  },
+  {
+    "name": "Thomas Kean Jr.",
+    "office": "Representative",
+    "state": "NJ",
+    "city": null,
+    "district": "NJ-7",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Kean_Jr."
+  },
+  {
+    "name": "Rob Menendez",
+    "office": "Representative",
+    "state": "NJ",
+    "city": null,
+    "district": "NJ-8",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rob_Menendez"
+  },
+  {
+    "name": "Nellie Pou",
+    "office": "Representative",
+    "state": "NJ",
+    "city": null,
+    "district": "NJ-9",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nellie_Pou"
+  },
+  {
+    "name": "LaMonica McIver",
+    "office": "Representative",
+    "state": "NJ",
+    "city": null,
+    "district": "NJ-10",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/LaMonica_McIver"
+  },
+  {
+    "name": "Analilia Mejia",
+    "office": "Representative",
+    "state": "NJ",
+    "city": null,
+    "district": "NJ-11",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Analilia_Mejia"
+  },
+  {
+    "name": "Bonnie Watson Coleman",
+    "office": "Representative",
+    "state": "NJ",
+    "city": null,
+    "district": "NJ-12",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bonnie_Watson_Coleman"
+  },
+  {
+    "name": "Melanie Stansbury",
+    "office": "Representative",
+    "state": "NM",
+    "city": null,
+    "district": "NM-1",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Melanie_Stansbury"
+  },
+  {
+    "name": "Gabe Vasquez",
+    "office": "Representative",
+    "state": "NM",
+    "city": null,
+    "district": "NM-2",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gabe_Vasquez"
+  },
+  {
+    "name": "Teresa Leger Fernandez",
+    "office": "Representative",
+    "state": "NM",
+    "city": null,
+    "district": "NM-3",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Teresa_Leger_Fernandez"
+  },
+  {
+    "name": "Nick LaLota",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nick_LaLota"
+  },
+  {
+    "name": "Andrew Garbarino",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Andrew_Garbarino"
+  },
+  {
+    "name": "Tom Suozzi",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-3",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tom_Suozzi"
+  },
+  {
+    "name": "Laura Gillen",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-4",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Laura_Gillen"
+  },
+  {
+    "name": "Gregory Meeks",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-5",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gregory_Meeks"
+  },
+  {
+    "name": "Grace Meng",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-6",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Grace_Meng"
+  },
+  {
+    "name": "Nydia Vel\u00e1zquez",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-7",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nydia_Vel%C3%A1zquez"
+  },
+  {
+    "name": "Hakeem Jeffries",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-8",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hakeem_Jeffries"
+  },
+  {
+    "name": "Yvette Clarke",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-9",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yvette_Clarke"
+  },
+  {
+    "name": "Dan Goldman",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-10",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_Goldman"
+  },
+  {
+    "name": "Nicole Malliotakis",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-11",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nicole_Malliotakis"
+  },
+  {
+    "name": "Jerry Nadler",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-12",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jerry_Nadler"
+  },
+  {
+    "name": "Adriano Espaillat",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-13",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Adriano_Espaillat"
+  },
+  {
+    "name": "Alexandria Ocasio-Cortez",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-14",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez"
+  },
+  {
+    "name": "Ritchie Torres",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-15",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ritchie_Torres"
+  },
+  {
+    "name": "George Latimer",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-16",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/George_Latimer_(New_York_politician)"
+  },
+  {
+    "name": "Mike Lawler",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-17",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Lawler"
+  },
+  {
+    "name": "Pat Ryan",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-18",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pat_Ryan_(politician)"
+  },
+  {
+    "name": "Josh Riley",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-19",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Josh_Riley"
+  },
+  {
+    "name": "Paul Tonko",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-20",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Tonko"
+  },
+  {
+    "name": "Elise Stefanik",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-21",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Elise_Stefanik"
+  },
+  {
+    "name": "John Mannion",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-22",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Mannion_(American_politician)"
+  },
+  {
+    "name": "Nick Langworthy",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-23",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nick_Langworthy"
+  },
+  {
+    "name": "Claudia Tenney",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-24",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Claudia_Tenney"
+  },
+  {
+    "name": "Joseph Morelle",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-25",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Morelle"
+  },
+  {
+    "name": "Tim Kennedy",
+    "office": "Representative",
+    "state": "NY",
+    "city": null,
+    "district": "NY-26",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Kennedy_(politician)"
+  },
+  {
+    "name": "Don Davis",
+    "office": "Representative",
+    "state": "NC",
+    "city": null,
+    "district": "NC-1",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Don_Davis_(North_Carolina_politician)"
+  },
+  {
+    "name": "Deborah Ross",
+    "office": "Representative",
+    "state": "NC",
+    "city": null,
+    "district": "NC-2",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Deborah_K._Ross"
+  },
+  {
+    "name": "Greg Murphy",
+    "office": "Representative",
+    "state": "NC",
+    "city": null,
+    "district": "NC-3",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Greg_Murphy_(politician)"
+  },
+  {
+    "name": "Valerie Foushee",
+    "office": "Representative",
+    "state": "NC",
+    "city": null,
+    "district": "NC-4",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Valerie_Foushee"
+  },
+  {
+    "name": "Virginia Foxx",
+    "office": "Representative",
+    "state": "NC",
+    "city": null,
+    "district": "NC-5",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Virginia_Foxx"
+  },
+  {
+    "name": "Addison McDowell",
+    "office": "Representative",
+    "state": "NC",
+    "city": null,
+    "district": "NC-6",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Addison_McDowell"
+  },
+  {
+    "name": "David Rouzer",
+    "office": "Representative",
+    "state": "NC",
+    "city": null,
+    "district": "NC-7",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/David_Rouzer"
+  },
+  {
+    "name": "Mark Harris",
+    "office": "Representative",
+    "state": "NC",
+    "city": null,
+    "district": "NC-8",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Harris_(North_Carolina_politician)"
+  },
+  {
+    "name": "Richard Hudson",
+    "office": "Representative",
+    "state": "NC",
+    "city": null,
+    "district": "NC-9",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Hudson_(American_politician)"
+  },
+  {
+    "name": "Pat Harrigan",
+    "office": "Representative",
+    "state": "NC",
+    "city": null,
+    "district": "NC-10",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pat_Harrigan"
+  },
+  {
+    "name": "Chuck Edwards",
+    "office": "Representative",
+    "state": "NC",
+    "city": null,
+    "district": "NC-11",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chuck_Edwards"
+  },
+  {
+    "name": "Alma Adams",
+    "office": "Representative",
+    "state": "NC",
+    "city": null,
+    "district": "NC-12",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alma_Adams"
+  },
+  {
+    "name": "Brad Knott",
+    "office": "Representative",
+    "state": "NC",
+    "city": null,
+    "district": "NC-13",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brad_Knott"
+  },
+  {
+    "name": "Tim Moore",
+    "office": "Representative",
+    "state": "NC",
+    "city": null,
+    "district": "NC-14",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Moore_(North_Carolina_politician)"
+  },
+  {
+    "name": "Julie Fedorchak",
+    "office": "Representative",
+    "state": "ND",
+    "city": null,
+    "district": "ND-AL",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Julie_Fedorchak"
+  },
+  {
+    "name": "Greg Landsman",
+    "office": "Representative",
+    "state": "OH",
+    "city": null,
+    "district": "OH-1",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Greg_Landsman"
+  },
+  {
+    "name": "David Taylor",
+    "office": "Representative",
+    "state": "OH",
+    "city": null,
+    "district": "OH-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/David_Taylor_(Ohio_politician)"
+  },
+  {
+    "name": "Joyce Beatty",
+    "office": "Representative",
+    "state": "OH",
+    "city": null,
+    "district": "OH-3",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Joyce_Beatty"
+  },
+  {
+    "name": "Jim Jordan",
+    "office": "Representative",
+    "state": "OH",
+    "city": null,
+    "district": "OH-4",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Jordan"
+  },
+  {
+    "name": "Bob Latta",
+    "office": "Representative",
+    "state": "OH",
+    "city": null,
+    "district": "OH-5",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bob_Latta"
+  },
+  {
+    "name": "Michael Rulli",
+    "office": "Representative",
+    "state": "OH",
+    "city": null,
+    "district": "OH-6",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Rulli"
+  },
+  {
+    "name": "Max Miller",
+    "office": "Representative",
+    "state": "OH",
+    "city": null,
+    "district": "OH-7",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Max_Miller_(politician)"
+  },
+  {
+    "name": "Warren Davidson",
+    "office": "Representative",
+    "state": "OH",
+    "city": null,
+    "district": "OH-8",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Warren_Davidson"
+  },
+  {
+    "name": "Marcy Kaptur",
+    "office": "Representative",
+    "state": "OH",
+    "city": null,
+    "district": "OH-9",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Marcy_Kaptur"
+  },
+  {
+    "name": "Mike Turner",
+    "office": "Representative",
+    "state": "OH",
+    "city": null,
+    "district": "OH-10",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Turner"
+  },
+  {
+    "name": "Shontel Brown",
+    "office": "Representative",
+    "state": "OH",
+    "city": null,
+    "district": "OH-11",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shontel_Brown"
+  },
+  {
+    "name": "Troy Balderson",
+    "office": "Representative",
+    "state": "OH",
+    "city": null,
+    "district": "OH-12",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Troy_Balderson"
+  },
+  {
+    "name": "Emilia Sykes",
+    "office": "Representative",
+    "state": "OH",
+    "city": null,
+    "district": "OH-13",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Emilia_Sykes"
+  },
+  {
+    "name": "David Joyce",
+    "office": "Representative",
+    "state": "OH",
+    "city": null,
+    "district": "OH-14",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/David_Joyce_(politician)"
+  },
+  {
+    "name": "Mike Carey",
+    "office": "Representative",
+    "state": "OH",
+    "city": null,
+    "district": "OH-15",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Carey_(politician)"
+  },
+  {
+    "name": "Kevin Hern",
+    "office": "Representative",
+    "state": "OK",
+    "city": null,
+    "district": "OK-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kevin_Hern"
+  },
+  {
+    "name": "Josh Brecheen",
+    "office": "Representative",
+    "state": "OK",
+    "city": null,
+    "district": "OK-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Josh_Brecheen"
+  },
+  {
+    "name": "Frank Lucas",
+    "office": "Representative",
+    "state": "OK",
+    "city": null,
+    "district": "OK-3",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Frank_Lucas_(Oklahoma_politician)"
+  },
+  {
+    "name": "Tom Cole",
+    "office": "Representative",
+    "state": "OK",
+    "city": null,
+    "district": "OK-4",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tom_Cole"
+  },
+  {
+    "name": "Stephanie Bice",
+    "office": "Representative",
+    "state": "OK",
+    "city": null,
+    "district": "OK-5",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stephanie_Bice"
+  },
+  {
+    "name": "Suzanne Bonamici",
+    "office": "Representative",
+    "state": "OR",
+    "city": null,
+    "district": "OR-1",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Suzanne_Bonamici"
+  },
+  {
+    "name": "Cliff Bentz",
+    "office": "Representative",
+    "state": "OR",
+    "city": null,
+    "district": "OR-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cliff_Bentz"
+  },
+  {
+    "name": "Maxine Dexter",
+    "office": "Representative",
+    "state": "OR",
+    "city": null,
+    "district": "OR-3",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maxine_Dexter"
+  },
+  {
+    "name": "Val Hoyle",
+    "office": "Representative",
+    "state": "OR",
+    "city": null,
+    "district": "OR-4",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Val_Hoyle"
+  },
+  {
+    "name": "Janelle Bynum",
+    "office": "Representative",
+    "state": "OR",
+    "city": null,
+    "district": "OR-5",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Janelle_Bynum"
+  },
+  {
+    "name": "Andrea Salinas",
+    "office": "Representative",
+    "state": "OR",
+    "city": null,
+    "district": "OR-6",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Andrea_Salinas"
+  },
+  {
+    "name": "Brian Fitzpatrick",
+    "office": "Representative",
+    "state": "PA",
+    "city": null,
+    "district": "PA-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brian_Fitzpatrick_(American_politician)"
+  },
+  {
+    "name": "Brendan Boyle",
+    "office": "Representative",
+    "state": "PA",
+    "city": null,
+    "district": "PA-2",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brendan_Boyle"
+  },
+  {
+    "name": "Dwight Evans",
+    "office": "Representative",
+    "state": "PA",
+    "city": null,
+    "district": "PA-3",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dwight_Evans_(politician)"
+  },
+  {
+    "name": "Madeleine Dean",
+    "office": "Representative",
+    "state": "PA",
+    "city": null,
+    "district": "PA-4",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Madeleine_Dean"
+  },
+  {
+    "name": "Mary Gay Scanlon",
+    "office": "Representative",
+    "state": "PA",
+    "city": null,
+    "district": "PA-5",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mary_Gay_Scanlon"
+  },
+  {
+    "name": "Chrissy Houlahan",
+    "office": "Representative",
+    "state": "PA",
+    "city": null,
+    "district": "PA-6",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chrissy_Houlahan"
+  },
+  {
+    "name": "Ryan Mackenzie",
+    "office": "Representative",
+    "state": "PA",
+    "city": null,
+    "district": "PA-7",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ryan_Mackenzie"
+  },
+  {
+    "name": "Rob Bresnahan",
+    "office": "Representative",
+    "state": "PA",
+    "city": null,
+    "district": "PA-8",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rob_Bresnahan"
+  },
+  {
+    "name": "Dan Meuser",
+    "office": "Representative",
+    "state": "PA",
+    "city": null,
+    "district": "PA-9",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_Meuser"
+  },
+  {
+    "name": "Scott Perry",
+    "office": "Representative",
+    "state": "PA",
+    "city": null,
+    "district": "PA-10",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scott_Perry"
+  },
+  {
+    "name": "Lloyd Smucker",
+    "office": "Representative",
+    "state": "PA",
+    "city": null,
+    "district": "PA-11",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lloyd_Smucker"
+  },
+  {
+    "name": "Summer Lee",
+    "office": "Representative",
+    "state": "PA",
+    "city": null,
+    "district": "PA-12",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Summer_Lee"
+  },
+  {
+    "name": "John Joyce",
+    "office": "Representative",
+    "state": "PA",
+    "city": null,
+    "district": "PA-13",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Joyce_(American_politician)"
+  },
+  {
+    "name": "Guy Reschenthaler",
+    "office": "Representative",
+    "state": "PA",
+    "city": null,
+    "district": "PA-14",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Guy_Reschenthaler"
+  },
+  {
+    "name": "Glenn Thompson",
+    "office": "Representative",
+    "state": "PA",
+    "city": null,
+    "district": "PA-15",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Glenn_Thompson_(politician)"
+  },
+  {
+    "name": "Mike Kelly",
+    "office": "Representative",
+    "state": "PA",
+    "city": null,
+    "district": "PA-16",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Kelly_(Pennsylvania_politician)"
+  },
+  {
+    "name": "Chris Deluzio",
+    "office": "Representative",
+    "state": "PA",
+    "city": null,
+    "district": "PA-17",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chris_Deluzio"
+  },
+  {
+    "name": "Gabe Amo",
+    "office": "Representative",
+    "state": "RI",
+    "city": null,
+    "district": "RI-1",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gabe_Amo"
+  },
+  {
+    "name": "Seth Magaziner",
+    "office": "Representative",
+    "state": "RI",
+    "city": null,
+    "district": "RI-2",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Seth_Magaziner"
+  },
+  {
+    "name": "Nancy Mace",
+    "office": "Representative",
+    "state": "SC",
+    "city": null,
+    "district": "SC-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nancy_Mace"
+  },
+  {
+    "name": "Joe Wilson",
+    "office": "Representative",
+    "state": "SC",
+    "city": null,
+    "district": "SC-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Joe_Wilson_(American_politician)"
+  },
+  {
+    "name": "Sheri Biggs",
+    "office": "Representative",
+    "state": "SC",
+    "city": null,
+    "district": "SC-3",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sheri_Biggs"
+  },
+  {
+    "name": "William Timmons",
+    "office": "Representative",
+    "state": "SC",
+    "city": null,
+    "district": "SC-4",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/William_Timmons_(politician)"
+  },
+  {
+    "name": "Ralph Norman",
+    "office": "Representative",
+    "state": "SC",
+    "city": null,
+    "district": "SC-5",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ralph_Norman"
+  },
+  {
+    "name": "Jim Clyburn",
+    "office": "Representative",
+    "state": "SC",
+    "city": null,
+    "district": "SC-6",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Clyburn"
+  },
+  {
+    "name": "Russell Fry",
+    "office": "Representative",
+    "state": "SC",
+    "city": null,
+    "district": "SC-7",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Russell_Fry_(politician)"
+  },
+  {
+    "name": "Dusty Johnson",
+    "office": "Representative",
+    "state": "SD",
+    "city": null,
+    "district": "SD-AL",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dusty_Johnson"
+  },
+  {
+    "name": "Diana Harshbarger",
+    "office": "Representative",
+    "state": "TN",
+    "city": null,
+    "district": "TN-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Diana_Harshbarger"
+  },
+  {
+    "name": "Tim Burchett",
+    "office": "Representative",
+    "state": "TN",
+    "city": null,
+    "district": "TN-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Burchett"
+  },
+  {
+    "name": "Chuck Fleischmann",
+    "office": "Representative",
+    "state": "TN",
+    "city": null,
+    "district": "TN-3",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chuck_Fleischmann"
+  },
+  {
+    "name": "Scott DesJarlais",
+    "office": "Representative",
+    "state": "TN",
+    "city": null,
+    "district": "TN-4",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scott_DesJarlais"
+  },
+  {
+    "name": "Andy Ogles",
+    "office": "Representative",
+    "state": "TN",
+    "city": null,
+    "district": "TN-5",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Andy_Ogles"
+  },
+  {
+    "name": "John Rose",
+    "office": "Representative",
+    "state": "TN",
+    "city": null,
+    "district": "TN-6",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Rose_(Tennessee_politician)"
+  },
+  {
+    "name": "Matt Van Epps",
+    "office": "Representative",
+    "state": "TN",
+    "city": null,
+    "district": "TN-7",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Matt_Van_Epps"
+  },
+  {
+    "name": "David Kustoff",
+    "office": "Representative",
+    "state": "TN",
+    "city": null,
+    "district": "TN-8",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/David_Kustoff"
+  },
+  {
+    "name": "Steve Cohen",
+    "office": "Representative",
+    "state": "TN",
+    "city": null,
+    "district": "TN-9",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Steve_Cohen_(politician)"
+  },
+  {
+    "name": "Nathaniel Moran",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nathaniel_Moran"
+  },
+  {
+    "name": "Dan Crenshaw",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_Crenshaw"
+  },
+  {
+    "name": "Keith Self",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-3",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Keith_Self"
+  },
+  {
+    "name": "Pat Fallon",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-4",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pat_Fallon"
+  },
+  {
+    "name": "Lance Gooden",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-5",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lance_Gooden"
+  },
+  {
+    "name": "Jake Ellzey",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-6",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jake_Ellzey"
+  },
+  {
+    "name": "Lizzie Fletcher",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-7",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lizzie_Fletcher"
+  },
+  {
+    "name": "Morgan Luttrell",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-8",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Morgan_Luttrell"
+  },
+  {
+    "name": "Al Green",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-9",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Al_Green_(politician)"
+  },
+  {
+    "name": "Michael McCaul",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-10",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_McCaul"
+  },
+  {
+    "name": "August Pfluger",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-11",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/August_Pfluger"
+  },
+  {
+    "name": "Craig Goldman",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-12",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Craig_Goldman"
+  },
+  {
+    "name": "Ronny Jackson",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-13",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ronny_Jackson"
+  },
+  {
+    "name": "Randy Weber",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-14",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Randy_Weber"
+  },
+  {
+    "name": "Monica De La Cruz",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-15",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Monica_De_La_Cruz"
+  },
+  {
+    "name": "Veronica Escobar",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-16",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Veronica_Escobar"
+  },
+  {
+    "name": "Pete Sessions",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-17",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pete_Sessions"
+  },
+  {
+    "name": "Christian Menefee",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-18",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Menefee"
+  },
+  {
+    "name": "Jodey Arrington",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-19",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jodey_Arrington"
+  },
+  {
+    "name": "Joaquin Castro",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-20",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Joaquin_Castro"
+  },
+  {
+    "name": "Chip Roy",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-21",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chip_Roy"
+  },
+  {
+    "name": "Troy Nehls",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-22",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Troy_Nehls"
+  },
+  {
+    "name": "Beth Van Duyne",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-24",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beth_Van_Duyne"
+  },
+  {
+    "name": "Roger Williams",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-25",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Roger_Williams_(Texas_politician)"
+  },
+  {
+    "name": "Brandon Gill",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-26",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brandon_Gill"
+  },
+  {
+    "name": "Michael Cloud",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-27",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Cloud"
+  },
+  {
+    "name": "Henry Cuellar",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-28",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Cuellar"
+  },
+  {
+    "name": "Sylvia Garcia",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-29",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sylvia_Garcia"
+  },
+  {
+    "name": "Jasmine Crockett",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-30",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jasmine_Crockett"
+  },
+  {
+    "name": "John Carter",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-31",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Carter_(Texas_politician)"
+  },
+  {
+    "name": "Julie Johnson",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-32",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Julie_Johnson_(politician)"
+  },
+  {
+    "name": "Marc Veasey",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-33",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Marc_Veasey"
+  },
+  {
+    "name": "Vicente Gonzalez",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-34",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vicente_Gonzalez_(American_politician)"
+  },
+  {
+    "name": "Greg Casar",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-35",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Greg_Casar"
+  },
+  {
+    "name": "Brian Babin",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-36",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brian_Babin"
+  },
+  {
+    "name": "Lloyd Doggett",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-37",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lloyd_Doggett"
+  },
+  {
+    "name": "Wesley Hunt",
+    "office": "Representative",
+    "state": "TX",
+    "city": null,
+    "district": "TX-38",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wesley_Hunt"
+  },
+  {
+    "name": "Blake Moore",
+    "office": "Representative",
+    "state": "UT",
+    "city": null,
+    "district": "UT-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blake_Moore"
+  },
+  {
+    "name": "Celeste Maloy",
+    "office": "Representative",
+    "state": "UT",
+    "city": null,
+    "district": "UT-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Celeste_Maloy"
+  },
+  {
+    "name": "Mike Kennedy",
+    "office": "Representative",
+    "state": "UT",
+    "city": null,
+    "district": "UT-3",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Kennedy"
+  },
+  {
+    "name": "Burgess Owens",
+    "office": "Representative",
+    "state": "UT",
+    "city": null,
+    "district": "UT-4",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Burgess_Owens"
+  },
+  {
+    "name": "Becca Balint",
+    "office": "Representative",
+    "state": "VT",
+    "city": null,
+    "district": "VT-AL",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Becca_Balint"
+  },
+  {
+    "name": "Rob Wittman",
+    "office": "Representative",
+    "state": "VA",
+    "city": null,
+    "district": "VA-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rob_Wittman"
+  },
+  {
+    "name": "Jen Kiggans",
+    "office": "Representative",
+    "state": "VA",
+    "city": null,
+    "district": "VA-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jen_Kiggans"
+  },
+  {
+    "name": "Bobby Scott",
+    "office": "Representative",
+    "state": "VA",
+    "city": null,
+    "district": "VA-3",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bobby_Scott_(politician)"
+  },
+  {
+    "name": "Jennifer McClellan",
+    "office": "Representative",
+    "state": "VA",
+    "city": null,
+    "district": "VA-4",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jennifer_McClellan"
+  },
+  {
+    "name": "John McGuire",
+    "office": "Representative",
+    "state": "VA",
+    "city": null,
+    "district": "VA-5",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_McGuire_(Virginia_politician)"
+  },
+  {
+    "name": "Ben Cline",
+    "office": "Representative",
+    "state": "VA",
+    "city": null,
+    "district": "VA-6",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ben_Cline"
+  },
+  {
+    "name": "Eugene Vindman",
+    "office": "Representative",
+    "state": "VA",
+    "city": null,
+    "district": "VA-7",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eugene_Vindman"
+  },
+  {
+    "name": "Don Beyer",
+    "office": "Representative",
+    "state": "VA",
+    "city": null,
+    "district": "VA-8",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Don_Beyer"
+  },
+  {
+    "name": "Morgan Griffith",
+    "office": "Representative",
+    "state": "VA",
+    "city": null,
+    "district": "VA-9",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Morgan_Griffith"
+  },
+  {
+    "name": "Suhas Subramanyam",
+    "office": "Representative",
+    "state": "VA",
+    "city": null,
+    "district": "VA-10",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Suhas_Subramanyam"
+  },
+  {
+    "name": "James Walkinshaw",
+    "office": "Representative",
+    "state": "VA",
+    "city": null,
+    "district": "VA-11",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/James_Walkinshaw"
+  },
+  {
+    "name": "Suzan DelBene",
+    "office": "Representative",
+    "state": "WA",
+    "city": null,
+    "district": "WA-1",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Suzan_DelBene"
+  },
+  {
+    "name": "Rick Larsen",
+    "office": "Representative",
+    "state": "WA",
+    "city": null,
+    "district": "WA-2",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rick_Larsen"
+  },
+  {
+    "name": "Marie Gluesenkamp Perez",
+    "office": "Representative",
+    "state": "WA",
+    "city": null,
+    "district": "WA-3",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Marie_Gluesenkamp_Perez"
+  },
+  {
+    "name": "Dan Newhouse",
+    "office": "Representative",
+    "state": "WA",
+    "city": null,
+    "district": "WA-4",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_Newhouse"
+  },
+  {
+    "name": "Michael Baumgartner",
+    "office": "Representative",
+    "state": "WA",
+    "city": null,
+    "district": "WA-5",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Baumgartner"
+  },
+  {
+    "name": "Emily Randall",
+    "office": "Representative",
+    "state": "WA",
+    "city": null,
+    "district": "WA-6",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Emily_Randall"
+  },
+  {
+    "name": "Pramila Jayapal",
+    "office": "Representative",
+    "state": "WA",
+    "city": null,
+    "district": "WA-7",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pramila_Jayapal"
+  },
+  {
+    "name": "Kim Schrier",
+    "office": "Representative",
+    "state": "WA",
+    "city": null,
+    "district": "WA-8",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kim_Schrier"
+  },
+  {
+    "name": "Adam Smith",
+    "office": "Representative",
+    "state": "WA",
+    "city": null,
+    "district": "WA-9",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Adam_Smith_(Washington_politician)"
+  },
+  {
+    "name": "Marilyn Strickland",
+    "office": "Representative",
+    "state": "WA",
+    "city": null,
+    "district": "WA-10",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Marilyn_Strickland"
+  },
+  {
+    "name": "Carol Miller",
+    "office": "Representative",
+    "state": "WV",
+    "city": null,
+    "district": "WV-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Carol_Miller_(politician)"
+  },
+  {
+    "name": "Riley Moore",
+    "office": "Representative",
+    "state": "WV",
+    "city": null,
+    "district": "WV-2",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Riley_Moore"
+  },
+  {
+    "name": "Bryan Steil",
+    "office": "Representative",
+    "state": "WI",
+    "city": null,
+    "district": "WI-1",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bryan_Steil"
+  },
+  {
+    "name": "Mark Pocan",
+    "office": "Representative",
+    "state": "WI",
+    "city": null,
+    "district": "WI-2",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Pocan"
+  },
+  {
+    "name": "Derrick Van Orden",
+    "office": "Representative",
+    "state": "WI",
+    "city": null,
+    "district": "WI-3",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Derrick_Van_Orden"
+  },
+  {
+    "name": "Gwen Moore",
+    "office": "Representative",
+    "state": "WI",
+    "city": null,
+    "district": "WI-4",
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gwen_Moore"
+  },
+  {
+    "name": "Scott Fitzgerald",
+    "office": "Representative",
+    "state": "WI",
+    "city": null,
+    "district": "WI-5",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scott_L._Fitzgerald"
+  },
+  {
+    "name": "Glenn Grothman",
+    "office": "Representative",
+    "state": "WI",
+    "city": null,
+    "district": "WI-6",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Glenn_Grothman"
+  },
+  {
+    "name": "Tom Tiffany",
+    "office": "Representative",
+    "state": "WI",
+    "city": null,
+    "district": "WI-7",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tom_Tiffany"
+  },
+  {
+    "name": "Tony Wied",
+    "office": "Representative",
+    "state": "WI",
+    "city": null,
+    "district": "WI-8",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tony_Wied"
+  },
+  {
+    "name": "Harriet Hageman",
+    "office": "Representative",
+    "state": "WY",
+    "city": null,
+    "district": "WY-AL",
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Harriet_Hageman"
+  },
+  {
+    "name": "Eric Adams",
+    "office": "Mayor",
+    "state": "NY",
+    "city": "New York, NY",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eric_Adams"
+  },
+  {
+    "name": "Karen Bass",
+    "office": "Mayor",
+    "state": "CA",
+    "city": "Los Angeles, CA",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Karen_Bass"
+  },
+  {
+    "name": "Brandon Johnson",
+    "office": "Mayor",
+    "state": "IL",
+    "city": "Chicago, IL",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brandon_Johnson"
+  },
+  {
+    "name": "John Whitmire",
+    "office": "Mayor",
+    "state": "TX",
+    "city": "Houston, TX",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Whitmire"
+  },
+  {
+    "name": "Kate Gallego",
+    "office": "Mayor",
+    "state": "AZ",
+    "city": "Phoenix, AZ",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kate_Gallego"
+  },
+  {
+    "name": "Cherelle Parker",
+    "office": "Mayor",
+    "state": "PA",
+    "city": "Philadelphia, PA",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cherelle_Parker"
+  },
+  {
+    "name": "Gina Ortiz Jones",
+    "office": "Mayor",
+    "state": "TX",
+    "city": "San Antonio, TX",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gina_Ortiz_Jones"
+  },
+  {
+    "name": "Todd Gloria",
+    "office": "Mayor",
+    "state": "CA",
+    "city": "San Diego, CA",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Todd_Gloria"
+  },
+  {
+    "name": "Eric Johnson",
+    "office": "Mayor",
+    "state": "TX",
+    "city": "Dallas, TX",
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eric_Johnson_(Texas_politician)"
+  },
+  {
+    "name": "Donna Deegan",
+    "office": "Mayor",
+    "state": "FL",
+    "city": "Jacksonville, FL",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Donna_Deegan"
+  },
+  {
+    "name": "Kirk Watson",
+    "office": "Mayor",
+    "state": "TX",
+    "city": "Austin, TX",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kirk_Watson"
+  },
+  {
+    "name": "Mattie Parker",
+    "office": "Mayor",
+    "state": "TX",
+    "city": "Fort Worth, TX",
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mattie_Parker"
+  },
+  {
+    "name": "Matt Mahan",
+    "office": "Mayor",
+    "state": "CA",
+    "city": "San Jose, CA",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Matt_Mahan"
+  },
+  {
+    "name": "Vi Lyles",
+    "office": "Mayor",
+    "state": "NC",
+    "city": "Charlotte, NC",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vi_Lyles"
+  },
+  {
+    "name": "Andrew Ginther",
+    "office": "Mayor",
+    "state": "OH",
+    "city": "Columbus, OH",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Andrew_Ginther"
+  },
+  {
+    "name": "Joe Hogsett",
+    "office": "Mayor",
+    "state": "IN",
+    "city": "Indianapolis, IN",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Joe_Hogsett"
+  },
+  {
+    "name": "Daniel Lurie",
+    "office": "Mayor",
+    "state": "CA",
+    "city": "San Francisco, CA",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Daniel_Lurie"
+  },
+  {
+    "name": "Bruce Harrell",
+    "office": "Mayor",
+    "state": "WA",
+    "city": "Seattle, WA",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bruce_Harrell"
+  },
+  {
+    "name": "Mike Johnston",
+    "office": "Mayor",
+    "state": "CO",
+    "city": "Denver, CO",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Johnston_(politician)"
+  },
+  {
+    "name": "Muriel Bowser",
+    "office": "Mayor",
+    "state": "DC",
+    "city": "Washington, DC",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Muriel_Bowser"
+  },
+  {
+    "name": "Freddie O'Connell",
+    "office": "Mayor",
+    "state": "TN",
+    "city": "Nashville, TN",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Freddie_O%27Connell"
+  },
+  {
+    "name": "David Holt",
+    "office": "Mayor",
+    "state": "OK",
+    "city": "Oklahoma City, OK",
+    "district": null,
+    "party": "R",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/David_Holt_(politician)"
+  },
+  {
+    "name": "Renard Johnson",
+    "office": "Mayor",
+    "state": "TX",
+    "city": "El Paso, TX",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Renard_Johnson"
+  },
+  {
+    "name": "Michelle Wu",
+    "office": "Mayor",
+    "state": "MA",
+    "city": "Boston, MA",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Michelle_Wu"
+  },
+  {
+    "name": "Shelley Berkley",
+    "office": "Mayor",
+    "state": "NV",
+    "city": "Las Vegas, NV",
+    "district": null,
+    "party": "D",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shelley_Berkley"
+  }
+]
